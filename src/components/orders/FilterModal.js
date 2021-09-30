@@ -71,6 +71,7 @@ const FilterModal = ({ setOpen, open, setStartDate, setEndDate }) => {
                                                 </label>
                                                 <div className="mt-1 w-full">
                                                     <input
+                                                        disabled
                                                         type="text"
                                                         name="email"
                                                         id="email"

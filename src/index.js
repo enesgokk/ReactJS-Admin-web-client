@@ -9,15 +9,17 @@ import {
 } from "react-router-dom";
 import Statistics from './pages/statistics/Statistics';
 import Orders from './pages/orders/Orders';
-import Stock from './pages/stocks/Stock';
-import Suppliers from './pages/suppliers/Suppliers';
+import Products from './pages/products/Products';
+import Market from './pages/market/Market';
+import Settings from './pages/settings/Settings';
 
 const Root = () => (
   <Switch>
     <Route exact path="/" component={Statistics} />
     <Route  path="/orders" component={Orders} />
-    <Route  path="/stocks" component={Stock} />
-    <Route  path="/suppliers" component={Suppliers} />
+    <Route  path="/products" component={Products} />
+    <Route  path="/market" component={Market} />
+    <Route  path="/settings" component={Settings} />
   </Switch>
   
 );
