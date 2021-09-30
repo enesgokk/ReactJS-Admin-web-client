@@ -1,0 +1,567 @@
+{
+  "pageIndex": 1,
+  "pageSize": 20,
+  "count": 246,
+  "data": [
+    {
+      "id": 200,
+      "orderNumber": "766149551",
+      "grossAmount": 89.9,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T01:05:20.762",
+      "estimatedDeliveryStartDate": "2021-09-06T22:05:20",
+      "estimatedDeliveryEndDate": "2021-09-10T22:05:20",
+      "source": "Trendyol",
+      "customer": {
+        "id": 200,
+        "firstName": "yeliz",
+        "lastName": "soysal",
+        "phoneNumber": "5417310331",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 200,
+        "trackingNumber": 7270000014917925,
+        "trackingLink": null,
+        "senderNumber": null,
+        "providerName": "Sürat Kargo Marketplace"
+      },
+      "packageHistories": null,
+      "lines": null,
+      "addresses": null
+    },
+    {
+      "id": 199,
+      "orderNumber": "766169251",
+      "grossAmount": 90,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T01:21:00.976",
+      "estimatedDeliveryStartDate": "2021-09-06T22:21:00",
+      "estimatedDeliveryEndDate": "2021-09-10T22:21:00",
+      "source": "Trendyol",
+      "customer": {
+        "id": 199,
+        "firstName": "Abdullah",
+        "lastName": "Karahan",
+        "phoneNumber": "5428110304",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 199,
+        "trackingNumber": 7337153293168,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=64598a1b-2262-441d-b6e7-a8029633a139",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": null,
+      "lines": null,
+      "addresses": null
+    },
+    {
+      "id": 198,
+      "orderNumber": "766172370",
+      "grossAmount": 91,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T01:23:30.819",
+      "estimatedDeliveryStartDate": "2021-09-06T22:23:30",
+      "estimatedDeliveryEndDate": "2021-09-10T22:23:30",
+      "source": "Trendyol",
+      "customer": {
+        "id": 198,
+        "firstName": "vildan",
+        "lastName": "balci",
+        "phoneNumber": "5547687479",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 198,
+        "trackingNumber": 7270000015003092,
+        "trackingLink": null,
+        "senderNumber": null,
+        "providerName": "Sürat Kargo Marketplace"
+      },
+      "packageHistories": null,
+      "lines": null,
+      "addresses": null
+    },
+    {
+      "id": 197,
+      "orderNumber": "766183556",
+      "grossAmount": 217.5,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T01:32:32.067",
+      "estimatedDeliveryStartDate": "2021-09-06T22:32:31",
+      "estimatedDeliveryEndDate": "2021-09-10T22:32:31",
+      "source": "Trendyol",
+      "customer": {
+        "id": 197,
+        "firstName": "Murat",
+        "lastName": "Güngördü",
+        "phoneNumber": "5331666388",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 197,
+        "trackingNumber": 7337153404519,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=d906ef1e-71c0-4072-9c08-0043469916af",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": null,
+      "lines": null,
+      "addresses": null
+    },
+    {
+      "id": 196,
+      "orderNumber": "766184437",
+      "grossAmount": 90,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T01:33:15.211",
+      "estimatedDeliveryStartDate": "2021-09-06T22:33:15",
+      "estimatedDeliveryEndDate": "2021-09-10T22:33:15",
+      "source": "Trendyol",
+      "customer": {
+        "id": 196,
+        "firstName": "Kübra",
+        "lastName": "Topçuoğlu",
+        "phoneNumber": "5538211663",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 196,
+        "trackingNumber": 7337153411623,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=7ccf18d1-713d-4a15-bf88-5629430ca262",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": null,
+      "lines": null,
+      "addresses": null
+    },
+    {
+      "id": 195,
+      "orderNumber": "766189603",
+      "grossAmount": 2649,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T01:37:31.901",
+      "estimatedDeliveryStartDate": "2021-09-06T22:37:31",
+      "estimatedDeliveryEndDate": "2021-09-10T22:37:31",
+      "source": "Trendyol",
+      "customer": {
+        "id": 195,
+        "firstName": "Tuğba ",
+        "lastName": "Ata",
+        "phoneNumber": "5318416610",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 195,
+        "trackingNumber": 9840000024483548,
+        "trackingLink": null,
+        "senderNumber": null,
+        "providerName": "Horoz Kargo Marketplace"
+      },
+      "packageHistories": null,
+      "lines": null,
+      "addresses": null
+    },
+    {
+      "id": 194,
+      "orderNumber": "766205236",
+      "grossAmount": 49.9,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T01:50:44.916",
+      "estimatedDeliveryStartDate": "2021-09-06T22:50:44",
+      "estimatedDeliveryEndDate": "2021-09-10T22:50:44",
+      "source": "Trendyol",
+      "customer": {
+        "id": 194,
+        "firstName": "Davut",
+        "lastName": "Kısak",
+        "phoneNumber": "5065248235",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 194,
+        "trackingNumber": 7337153590182,
+        "trackingLink": null,
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": null,
+      "lines": null,
+      "addresses": null
+    },
+    {
+      "id": 193,
+      "orderNumber": "766213259",
+      "grossAmount": 90,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T01:57:34.46",
+      "estimatedDeliveryStartDate": "2021-09-06T22:57:34",
+      "estimatedDeliveryEndDate": "2021-09-10T22:57:34",
+      "source": "Trendyol",
+      "customer": {
+        "id": 193,
+        "firstName": "Yasin",
+        "lastName": "Karabacak",
+        "phoneNumber": "5374675962",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 193,
+        "trackingNumber": 7337153658035,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=37c25171-9d79-48c2-9f88-a535deac6d54",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": null,
+      "lines": null,
+      "addresses": null
+    },
+    {
+      "id": 192,
+      "orderNumber": "766226399",
+      "grossAmount": 90,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T02:09:06.846",
+      "estimatedDeliveryStartDate": "2021-09-06T23:09:06",
+      "estimatedDeliveryEndDate": "2021-09-10T23:09:06",
+      "source": "Trendyol",
+      "customer": {
+        "id": 192,
+        "firstName": "Melisa",
+        "lastName": "Özel",
+        "phoneNumber": "5076332093",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 192,
+        "trackingNumber": 7337153773493,
+        "trackingLink": null,
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": null,
+      "lines": null,
+      "addresses": null
+    },
+    {
+      "id": 191,
+      "orderNumber": "766228874",
+      "grossAmount": 435,
+      "currencyCode": "TRY",
+      "totalDiscount": 6,
+      "date": "2021-09-04T02:11:25.761",
+      "estimatedDeliveryStartDate": "2021-09-06T23:11:25",
+      "estimatedDeliveryEndDate": "2021-09-10T23:11:25",
+      "source": "Trendyol",
+      "customer": {
+        "id": 191,
+        "firstName": "marjan",
+        "lastName": "kashani",
+        "phoneNumber": "5345125776",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 191,
+        "trackingNumber": 7337153795365,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=da7365c6-750d-4d63-b90e-050ed8fadaf6",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": null,
+      "lines": null,
+      "addresses": null
+    },
+    {
+      "id": 190,
+      "orderNumber": "766235637",
+      "grossAmount": 85,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T02:17:55.707",
+      "estimatedDeliveryStartDate": "2021-09-06T23:17:55",
+      "estimatedDeliveryEndDate": "2021-09-10T23:17:55",
+      "source": "Trendyol",
+      "customer": {
+        "id": 190,
+        "firstName": "saliç",
+        "lastName": "aktaş",
+        "phoneNumber": "5532197326",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 190,
+        "trackingNumber": 7337153854444,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=8ef3fa29-b748-4b44-bf85-d75d1ca2ff8a",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": null,
+      "lines": null,
+      "addresses": null
+    },
+    {
+      "id": 189,
+      "orderNumber": "766238353",
+      "grossAmount": 169.9,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T02:20:35.154",
+      "estimatedDeliveryStartDate": "2021-09-06T23:20:35",
+      "estimatedDeliveryEndDate": "2021-09-10T23:20:35",
+      "source": "Trendyol",
+      "customer": {
+        "id": 189,
+        "firstName": "Melike",
+        "lastName": "Öztürk",
+        "phoneNumber": "5459010951",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 189,
+        "trackingNumber": 7270000015276250,
+        "trackingLink": null,
+        "senderNumber": null,
+        "providerName": "Sürat Kargo Marketplace"
+      },
+      "packageHistories": null,
+      "lines": null,
+      "addresses": null
+    },
+    {
+      "id": 188,
+      "orderNumber": "766266304",
+      "grossAmount": 90,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T02:50:25.55",
+      "estimatedDeliveryStartDate": "2021-09-06T23:50:25",
+      "estimatedDeliveryEndDate": "2021-09-10T23:50:25",
+      "source": "Trendyol",
+      "customer": {
+        "id": 188,
+        "firstName": "Simge ",
+        "lastName": "Ceyhan",
+        "phoneNumber": "5378849156",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 188,
+        "trackingNumber": 7337154130264,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=31e1578a-8ccf-48fb-9a72-a0ad15085283",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": null,
+      "lines": null,
+      "addresses": null
+    },
+    {
+      "id": 187,
+      "orderNumber": "766274744",
+      "grossAmount": 85,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T03:00:29.76",
+      "estimatedDeliveryStartDate": "2021-09-07T00:00:29",
+      "estimatedDeliveryEndDate": "2021-09-11T00:00:29",
+      "source": "Trendyol",
+      "customer": {
+        "id": 187,
+        "firstName": "tarık ahmet ",
+        "lastName": "şahin",
+        "phoneNumber": "5350367990",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 187,
+        "trackingNumber": 7337154207850,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=37e9c560-d3e1-4299-b6dc-47c719bb85f5",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": null,
+      "lines": null,
+      "addresses": null
+    },
+    {
+      "id": 186,
+      "orderNumber": "766278409",
+      "grossAmount": 90,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T03:04:59.615",
+      "estimatedDeliveryStartDate": "2021-09-07T00:04:59",
+      "estimatedDeliveryEndDate": "2021-09-11T00:04:59",
+      "source": "Trendyol",
+      "customer": {
+        "id": 186,
+        "firstName": "seçkin",
+        "lastName": "kurt",
+        "phoneNumber": "5548918584",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 186,
+        "trackingNumber": 7337154242448,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=d5775183-d021-4210-958d-a50b772a5a4b",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": null,
+      "lines": null,
+      "addresses": null
+    },
+    {
+      "id": 185,
+      "orderNumber": "766280149",
+      "grossAmount": 85,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T03:07:11.973",
+      "estimatedDeliveryStartDate": "2021-09-07T00:07:11",
+      "estimatedDeliveryEndDate": "2021-09-11T00:07:11",
+      "source": "Trendyol",
+      "customer": {
+        "id": 185,
+        "firstName": "Ayşegül ",
+        "lastName": "Paksoy",
+        "phoneNumber": "5436339818",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 185,
+        "trackingNumber": 7337154263320,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=42a38bd2-685d-4984-bd79-f0ae242fdf76",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": null,
+      "lines": null,
+      "addresses": null
+    },
+    {
+      "id": 184,
+      "orderNumber": "766310912",
+      "grossAmount": 59.8,
+      "currencyCode": "TRY",
+      "totalDiscount": 3,
+      "date": "2021-09-04T03:55:07.933",
+      "estimatedDeliveryStartDate": "2021-09-07T00:55:07",
+      "estimatedDeliveryEndDate": "2021-09-11T00:55:07",
+      "source": "Trendyol",
+      "customer": {
+        "id": 184,
+        "firstName": "Ahmet",
+        "lastName": "Şenduran",
+        "phoneNumber": "5357426601",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 184,
+        "trackingNumber": 7337154546539,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=114e9b44-1fce-4d5a-b545-b50c71a37116",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": null,
+      "lines": null,
+      "addresses": null
+    },
+    {
+      "id": 183,
+      "orderNumber": "766331525",
+      "grossAmount": 90,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T04:47:05.501",
+      "estimatedDeliveryStartDate": "1970-01-01T02:00:00",
+      "estimatedDeliveryEndDate": "1970-01-01T02:00:00",
+      "source": "Trendyol",
+      "customer": {
+        "id": 183,
+        "firstName": "Sibel",
+        "lastName": "BOZOK",
+        "phoneNumber": "5339294383",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 183,
+        "trackingNumber": 7337154739313,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=dbdd058f-602d-421e-93a8-80fd4102859c",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": null,
+      "lines": null,
+      "addresses": null
+    },
+    {
+      "id": 182,
+      "orderNumber": "766346245",
+      "grossAmount": 179,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T06:02:10.909",
+      "estimatedDeliveryStartDate": "2021-09-07T03:02:10",
+      "estimatedDeliveryEndDate": "2021-09-11T03:02:10",
+      "source": "Trendyol",
+      "customer": {
+        "id": 182,
+        "firstName": "Ömer ",
+        "lastName": "Avcı",
+        "phoneNumber": "5335563235",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 182,
+        "trackingNumber": 7337154873895,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=245bde32-aec0-4c9d-b0dd-3b3397adf80d",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": null,
+      "lines": null,
+      "addresses": null
+    },
+    {
+      "id": 181,
+      "orderNumber": "766363396",
+      "grossAmount": 101.6,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T10:26:37.093",
+      "estimatedDeliveryStartDate": "2021-09-07T07:26:36",
+      "estimatedDeliveryEndDate": "2021-09-11T07:26:36",
+      "source": "Trendyol",
+      "customer": {
+        "id": 181,
+        "firstName": "Atzu",
+        "lastName": "Özen",
+        "phoneNumber": "5052646878",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 181,
+        "trackingNumber": 7337155021790,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=00a3e77c-837a-46aa-86ae-5721e4d10897",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": null,
+      "lines": null,
+      "addresses": null
+    }
+  ]
+}

@@ -1,0 +1,4852 @@
+{
+  "pageIndex": 1,
+  "pageSize": 50,
+  "totalItems": 569,
+  "totalPages": 12,
+  "data": [
+    {
+      "id": 200,
+      "orderNumber": "766149551",
+      "grossAmount": 89.9,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T01:05:20.762",
+      "estimatedDeliveryStartDate": "2021-09-06T22:05:20",
+      "estimatedDeliveryEndDate": "2021-09-10T22:05:20",
+      "source": "Trendyol",
+      "customer": {
+        "id": 200,
+        "firstName": "yeliz",
+        "lastName": "soysal",
+        "phoneNumber": "5417310331",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 200,
+        "trackingNumber": 7270000014917925,
+        "trackingLink": null,
+        "senderNumber": null,
+        "providerName": "Sürat Kargo Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 443,
+          "orderId": 200,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-03T22:06:13.998"
+        },
+        {
+          "id": 444,
+          "orderId": 200,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-03T22:06:15.071"
+        },
+        {
+          "id": 445,
+          "orderId": 200,
+          "order": null,
+          "orderStatus": "Cancelled",
+          "lastStatusChangeDate": "2021-09-04T10:25:07.093"
+        }
+      ],
+      "lines": [
+        {
+          "id": 209,
+          "orderId": 200,
+          "order": null,
+          "productName": "6’lı Karışık Vakumlu Poşet Set+Pompa Hediyeli 8697623596335, one size",
+          "quantity": 1,
+          "sku": "8697623596335",
+          "discount": 0,
+          "amount": 89.9,
+          "currencyCode": "TRY",
+          "vatAmount": 18,
+          "barcode": "8697623596335",
+          "stockCode": "8697623596335"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 399,
+          "addressId": null,
+          "orderId": 200,
+          "order": null,
+          "company": "",
+          "address1": "Saray mah. Yunus Emre Cad.no1 başkent hastanesi ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "07000",
+          "countryCode": "tr",
+          "fullAddress": "Saray mah. Yunus Emre Cad.no1 başkent hastanesi     Alanya Antalya",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 400,
+          "addressId": null,
+          "orderId": 200,
+          "order": null,
+          "company": "",
+          "address1": "Saray Mh. Galatasaray Cd. No: 36 A Uygunlar Apartmanı.Blk Alanya / ANTALYA / TÜRKİYE",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "07000",
+          "countryCode": "tr",
+          "fullAddress": "Saray Mh. Galatasaray Cd. No: 36 A Uygunlar Apartmanı.Blk Alanya / ANTALYA / TÜRKİYE     Alanya Antalya",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 199,
+      "orderNumber": "766169251",
+      "grossAmount": 90,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T01:21:00.976",
+      "estimatedDeliveryStartDate": "2021-09-06T22:21:00",
+      "estimatedDeliveryEndDate": "2021-09-10T22:21:00",
+      "source": "Trendyol",
+      "customer": {
+        "id": 199,
+        "firstName": "Abdullah",
+        "lastName": "Karahan",
+        "phoneNumber": "5428110304",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 199,
+        "trackingNumber": 7337153293168,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=64598a1b-2262-441d-b6e7-a8029633a139",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 440,
+          "orderId": 199,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-03T22:21:48.875"
+        },
+        {
+          "id": 441,
+          "orderId": 199,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-03T22:21:51.182"
+        },
+        {
+          "id": 442,
+          "orderId": 199,
+          "order": null,
+          "orderStatus": "Shipped",
+          "lastStatusChangeDate": "2021-09-06T15:43:20.696"
+        }
+      ],
+      "lines": [
+        {
+          "id": 208,
+          "orderId": 199,
+          "order": null,
+          "productName": "8’li Vakumlu Poşet Set-1 8697623589603, one size",
+          "quantity": 1,
+          "sku": "8697623589603",
+          "discount": 0,
+          "amount": 90,
+          "currencyCode": "TRY",
+          "vatAmount": 18,
+          "barcode": "8697623589603",
+          "stockCode": "P-M-024"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 397,
+          "addressId": null,
+          "orderId": 199,
+          "order": null,
+          "company": "",
+          "address1": "Palacı sokak no39/2 daire:2 ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "34000",
+          "countryCode": "tr",
+          "fullAddress": "Palacı sokak no39/2 daire:2     Beşiktaş İstanbul",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 398,
+          "addressId": null,
+          "orderId": 199,
+          "order": null,
+          "company": "",
+          "address1": "Palacı sokak no39/2 daire:2 ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "34000",
+          "countryCode": "tr",
+          "fullAddress": "Palacı sokak no39/2 daire:2     Beşiktaş İstanbul",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 198,
+      "orderNumber": "766172370",
+      "grossAmount": 91,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T01:23:30.819",
+      "estimatedDeliveryStartDate": "2021-09-06T22:23:30",
+      "estimatedDeliveryEndDate": "2021-09-10T22:23:30",
+      "source": "Trendyol",
+      "customer": {
+        "id": 198,
+        "firstName": "vildan",
+        "lastName": "balci",
+        "phoneNumber": "5547687479",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 198,
+        "trackingNumber": 7270000015003092,
+        "trackingLink": null,
+        "senderNumber": null,
+        "providerName": "Sürat Kargo Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 438,
+          "orderId": 198,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-03T22:23:33.123"
+        },
+        {
+          "id": 439,
+          "orderId": 198,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-03T22:23:34.293"
+        }
+      ],
+      "lines": [
+        {
+          "id": 207,
+          "orderId": 198,
+          "order": null,
+          "productName": "7'li Vakumlu Hurç-vakumlu Poşet Seti (2 L + 2 Xl + 2 Xxl + 1 Jumbo) Msb-2019-001, one size",
+          "quantity": 1,
+          "sku": "8697623589702",
+          "discount": 0,
+          "amount": 91,
+          "currencyCode": "TRY",
+          "vatAmount": 0,
+          "barcode": "8697623589702",
+          "stockCode": "P-M-022"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 395,
+          "addressId": null,
+          "orderId": 198,
+          "order": null,
+          "company": "",
+          "address1": "gazi aile sağlığı merkezi eşref hocacaddesi",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "19600",
+          "countryCode": "tr",
+          "fullAddress": "gazi aile sağlığı merkezi eşref hocacaddesi     Merkez Çorum",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 396,
+          "addressId": null,
+          "orderId": 198,
+          "order": null,
+          "company": "",
+          "address1": "Çepni Mh. Kerebi Gazi 1.Sk. No: 42 Merkez / ÇORUM / TÜRKİYE",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "19600",
+          "countryCode": "tr",
+          "fullAddress": "Çepni Mh. Kerebi Gazi 1.Sk. No: 42 Merkez / ÇORUM / TÜRKİYE     Merkez Çorum",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 197,
+      "orderNumber": "766183556",
+      "grossAmount": 217.5,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T01:32:32.067",
+      "estimatedDeliveryStartDate": "2021-09-06T22:32:31",
+      "estimatedDeliveryEndDate": "2021-09-10T22:32:31",
+      "source": "Trendyol",
+      "customer": {
+        "id": 197,
+        "firstName": "Murat",
+        "lastName": "Güngördü",
+        "phoneNumber": "5331666388",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 197,
+        "trackingNumber": 7337153404519,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=d906ef1e-71c0-4072-9c08-0043469916af",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 435,
+          "orderId": 197,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-03T22:32:34.075"
+        },
+        {
+          "id": 436,
+          "orderId": 197,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-03T22:32:37.282"
+        },
+        {
+          "id": 437,
+          "orderId": 197,
+          "order": null,
+          "orderStatus": "Shipped",
+          "lastStatusChangeDate": "2021-09-06T15:25:07.8"
+        }
+      ],
+      "lines": [
+        {
+          "id": 206,
+          "orderId": 197,
+          "order": null,
+          "productName": "Best Choice Ikili Kamp Ve Plaj Sandalyesi 8697623602432 8697623597370, one size",
+          "quantity": 1,
+          "sku": "8697623602432",
+          "discount": 0,
+          "amount": 217.5,
+          "currencyCode": "TRY",
+          "vatAmount": 18,
+          "barcode": "8697623602432",
+          "stockCode": "C-3390"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 393,
+          "addressId": null,
+          "orderId": 197,
+          "order": null,
+          "company": "",
+          "address1": "tc ziraat bankası Muş merkez şubesi 49000 Muş/merkez ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "49000",
+          "countryCode": "tr",
+          "fullAddress": "tc ziraat bankası Muş merkez şubesi 49000 Muş/merkez     Merkez Muş",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 394,
+          "addressId": null,
+          "orderId": 197,
+          "order": null,
+          "company": "",
+          "address1": "tc ziraat bankası Muş merkez şubesi 49000 Muş/merkez ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "49000",
+          "countryCode": "tr",
+          "fullAddress": "tc ziraat bankası Muş merkez şubesi 49000 Muş/merkez     Merkez Muş",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 196,
+      "orderNumber": "766184437",
+      "grossAmount": 90,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T01:33:15.211",
+      "estimatedDeliveryStartDate": "2021-09-06T22:33:15",
+      "estimatedDeliveryEndDate": "2021-09-10T22:33:15",
+      "source": "Trendyol",
+      "customer": {
+        "id": 196,
+        "firstName": "Kübra",
+        "lastName": "Topçuoğlu",
+        "phoneNumber": "5538211663",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 196,
+        "trackingNumber": 7337153411623,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=7ccf18d1-713d-4a15-bf88-5629430ca262",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 432,
+          "orderId": 196,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-03T22:33:17.319"
+        },
+        {
+          "id": 433,
+          "orderId": 196,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-03T22:33:19.793"
+        },
+        {
+          "id": 434,
+          "orderId": 196,
+          "order": null,
+          "orderStatus": "Shipped",
+          "lastStatusChangeDate": "2021-09-06T15:43:25.5"
+        }
+      ],
+      "lines": [
+        {
+          "id": 205,
+          "orderId": 196,
+          "order": null,
+          "productName": "8’li Vakumlu Poşet Set-1 8697623589603, one size",
+          "quantity": 1,
+          "sku": "8697623589603",
+          "discount": 0,
+          "amount": 90,
+          "currencyCode": "TRY",
+          "vatAmount": 18,
+          "barcode": "8697623589603",
+          "stockCode": "P-M-024"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 391,
+          "addressId": null,
+          "orderId": 196,
+          "order": null,
+          "company": "",
+          "address1": "Şeyhkeramettin mahallesi ince dayı sokak 31/c",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "28000",
+          "countryCode": "tr",
+          "fullAddress": "Şeyhkeramettin mahallesi ince dayı sokak 31/c     Merkez Giresun",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 392,
+          "addressId": null,
+          "orderId": 196,
+          "order": null,
+          "company": "",
+          "address1": "Şeyhkeramettin mahallesi ince dayı sokak 31/c",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "28000",
+          "countryCode": "tr",
+          "fullAddress": "Şeyhkeramettin mahallesi ince dayı sokak 31/c     Merkez Giresun",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 195,
+      "orderNumber": "766189603",
+      "grossAmount": 2649,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T01:37:31.901",
+      "estimatedDeliveryStartDate": "2021-09-06T22:37:31",
+      "estimatedDeliveryEndDate": "2021-09-10T22:37:31",
+      "source": "Trendyol",
+      "customer": {
+        "id": 195,
+        "firstName": "Tuğba ",
+        "lastName": "Ata",
+        "phoneNumber": "5318416610",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 195,
+        "trackingNumber": 9840000024483548,
+        "trackingLink": null,
+        "senderNumber": null,
+        "providerName": "Horoz Kargo Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 430,
+          "orderId": 195,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-03T22:38:10.744"
+        },
+        {
+          "id": 431,
+          "orderId": 195,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-03T22:38:12.505"
+        }
+      ],
+      "lines": [
+        {
+          "id": 204,
+          "orderId": 195,
+          "order": null,
+          "productName": "HB534FER0T iQ300 A Enerji Sınıfı Ankastre Fırın HB534FER0T, one size",
+          "quantity": 1,
+          "sku": "4242003809204",
+          "discount": 0,
+          "amount": 2649,
+          "currencyCode": "TRY",
+          "vatAmount": 18,
+          "barcode": "4242003809204",
+          "stockCode": "4242003809204"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 389,
+          "addressId": null,
+          "orderId": 195,
+          "order": null,
+          "company": "",
+          "address1": "Yeni mahalle nizam sok no:1 kat:3 daire:13 uludağ park sitesi",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "11000",
+          "countryCode": "tr",
+          "fullAddress": "Yeni mahalle nizam sok no:1 kat:3 daire:13 uludağ park sitesi     Bozüyük Bilecik",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 390,
+          "addressId": null,
+          "orderId": 195,
+          "order": null,
+          "company": "",
+          "address1": "Yeni mahalle nizam sok no:1 kat:3 daire:13 uludağ park sitesi",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "11000",
+          "countryCode": "tr",
+          "fullAddress": "Yeni mahalle nizam sok no:1 kat:3 daire:13 uludağ park sitesi     Bozüyük Bilecik",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 194,
+      "orderNumber": "766205236",
+      "grossAmount": 49.9,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T01:50:44.916",
+      "estimatedDeliveryStartDate": "2021-09-06T22:50:44",
+      "estimatedDeliveryEndDate": "2021-09-10T22:50:44",
+      "source": "Trendyol",
+      "customer": {
+        "id": 194,
+        "firstName": "Davut",
+        "lastName": "Kısak",
+        "phoneNumber": "5065248235",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 194,
+        "trackingNumber": 7337153590182,
+        "trackingLink": null,
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 428,
+          "orderId": 194,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-03T22:51:02.705"
+        },
+        {
+          "id": 429,
+          "orderId": 194,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-03T22:51:04.136"
+        }
+      ],
+      "lines": [
+        {
+          "id": 203,
+          "orderId": 194,
+          "order": null,
+          "productName": "Blacc Köping Banyo Havluluk 50 Cm 2021002750cm, one size",
+          "quantity": 1,
+          "sku": "2021002750",
+          "discount": 0,
+          "amount": 49.9,
+          "currencyCode": "TRY",
+          "vatAmount": 18,
+          "barcode": "2021002750",
+          "stockCode": "2021002750"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 387,
+          "addressId": null,
+          "orderId": 194,
+          "order": null,
+          "company": "",
+          "address1": "Adalet mahallesi Hasan Gönüllü Bulvarı No:19 (TEİAŞ) ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "20000",
+          "countryCode": "tr",
+          "fullAddress": "Adalet mahallesi Hasan Gönüllü Bulvarı No:19 (TEİAŞ)     Merkezefendi Denizli",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 388,
+          "addressId": null,
+          "orderId": 194,
+          "order": null,
+          "company": "",
+          "address1": "Adalet mahallesi Hasan Gönüllü Bulvarı No:19 (TEİAŞ) ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "20000",
+          "countryCode": "tr",
+          "fullAddress": "Adalet mahallesi Hasan Gönüllü Bulvarı No:19 (TEİAŞ)     Merkezefendi Denizli",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 193,
+      "orderNumber": "766213259",
+      "grossAmount": 90,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T01:57:34.46",
+      "estimatedDeliveryStartDate": "2021-09-06T22:57:34",
+      "estimatedDeliveryEndDate": "2021-09-10T22:57:34",
+      "source": "Trendyol",
+      "customer": {
+        "id": 193,
+        "firstName": "Yasin",
+        "lastName": "Karabacak",
+        "phoneNumber": "5374675962",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 193,
+        "trackingNumber": 7337153658035,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=37c25171-9d79-48c2-9f88-a535deac6d54",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 425,
+          "orderId": 193,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-03T22:57:36.651"
+        },
+        {
+          "id": 426,
+          "orderId": 193,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-03T22:57:37.856"
+        },
+        {
+          "id": 427,
+          "orderId": 193,
+          "order": null,
+          "orderStatus": "Shipped",
+          "lastStatusChangeDate": "2021-09-06T15:42:13.822"
+        }
+      ],
+      "lines": [
+        {
+          "id": 202,
+          "orderId": 193,
+          "order": null,
+          "productName": "8’li Vakumlu Poşet Set-1 8697623589603, one size",
+          "quantity": 1,
+          "sku": "8697623589603",
+          "discount": 0,
+          "amount": 90,
+          "currencyCode": "TRY",
+          "vatAmount": 18,
+          "barcode": "8697623589603",
+          "stockCode": "P-M-024"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 385,
+          "addressId": null,
+          "orderId": 193,
+          "order": null,
+          "company": "",
+          "address1": "Oğuzhan sk no 78/4",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "34000",
+          "countryCode": "tr",
+          "fullAddress": "Oğuzhan sk no 78/4     Küçükçekmece İstanbul",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 386,
+          "addressId": null,
+          "orderId": 193,
+          "order": null,
+          "company": "",
+          "address1": "Oğuzhan sk no 78/4",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "34000",
+          "countryCode": "tr",
+          "fullAddress": "Oğuzhan sk no 78/4     Küçükçekmece İstanbul",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 192,
+      "orderNumber": "766226399",
+      "grossAmount": 90,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T02:09:06.846",
+      "estimatedDeliveryStartDate": "2021-09-06T23:09:06",
+      "estimatedDeliveryEndDate": "2021-09-10T23:09:06",
+      "source": "Trendyol",
+      "customer": {
+        "id": 192,
+        "firstName": "Melisa",
+        "lastName": "Özel",
+        "phoneNumber": "5076332093",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 192,
+        "trackingNumber": 7337153773493,
+        "trackingLink": null,
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 422,
+          "orderId": 192,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-03T23:09:08.93"
+        },
+        {
+          "id": 423,
+          "orderId": 192,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-03T23:09:10.171"
+        },
+        {
+          "id": 424,
+          "orderId": 192,
+          "order": null,
+          "orderStatus": "Cancelled",
+          "lastStatusChangeDate": "2021-09-04T11:36:29.095"
+        }
+      ],
+      "lines": [
+        {
+          "id": 201,
+          "orderId": 192,
+          "order": null,
+          "productName": "8’li Vakumlu Poşet Set-1 8697623589603, one size",
+          "quantity": 1,
+          "sku": "8697623589603",
+          "discount": 0,
+          "amount": 90,
+          "currencyCode": "TRY",
+          "vatAmount": 18,
+          "barcode": "8697623589603",
+          "stockCode": "P-M-024"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 383,
+          "addressId": null,
+          "orderId": 192,
+          "order": null,
+          "company": "",
+          "address1": "913 sokak Atatürk mahallesi genç ege apartmanı no30 daire 8 Bornova izmir ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "35000",
+          "countryCode": "tr",
+          "fullAddress": "913 sokak Atatürk mahallesi genç ege apartmanı no30 daire 8 Bornova izmir     Bornova İzmir",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 384,
+          "addressId": null,
+          "orderId": 192,
+          "order": null,
+          "company": "",
+          "address1": "913 sokak Atatürk mahallesi genç ege apartmanı no30 daire 8 Bornova izmir ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "35000",
+          "countryCode": "tr",
+          "fullAddress": "913 sokak Atatürk mahallesi genç ege apartmanı no30 daire 8 Bornova izmir     Bornova İzmir",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 191,
+      "orderNumber": "766228874",
+      "grossAmount": 435,
+      "currencyCode": "TRY",
+      "totalDiscount": 6,
+      "date": "2021-09-04T02:11:25.761",
+      "estimatedDeliveryStartDate": "2021-09-06T23:11:25",
+      "estimatedDeliveryEndDate": "2021-09-10T23:11:25",
+      "source": "Trendyol",
+      "customer": {
+        "id": 191,
+        "firstName": "marjan",
+        "lastName": "kashani",
+        "phoneNumber": "5345125776",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 191,
+        "trackingNumber": 7337153795365,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=da7365c6-750d-4d63-b90e-050ed8fadaf6",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 419,
+          "orderId": 191,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-03T23:11:27.563"
+        },
+        {
+          "id": 420,
+          "orderId": 191,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-03T23:11:28.303"
+        },
+        {
+          "id": 421,
+          "orderId": 191,
+          "order": null,
+          "orderStatus": "Shipped",
+          "lastStatusChangeDate": "2021-09-06T15:45:32.926"
+        }
+      ],
+      "lines": [
+        {
+          "id": 199,
+          "orderId": 191,
+          "order": null,
+          "productName": "6’lı Vakumlu Poşet Set-1 8697623589573, one size",
+          "quantity": 3,
+          "sku": "8697623589573",
+          "discount": 1.48,
+          "amount": 85,
+          "currencyCode": "TRY",
+          "vatAmount": 18,
+          "barcode": "8697623589573",
+          "stockCode": "P-M-018"
+        },
+        {
+          "id": 200,
+          "orderId": 191,
+          "order": null,
+          "productName": "8’li Vakumlu Poşet Set-1 8697623589603, one size",
+          "quantity": 2,
+          "sku": "8697623589603",
+          "discount": 0.79,
+          "amount": 90,
+          "currencyCode": "TRY",
+          "vatAmount": 18,
+          "barcode": "8697623589603",
+          "stockCode": "P-M-024"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 381,
+          "addressId": null,
+          "orderId": 191,
+          "order": null,
+          "company": "",
+          "address1": "Ormanada Evleri, Uskumruköyü Mah, kilyos cad, No: 246, villa no: 189, 34450, sariyer, Istanbul ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "34000",
+          "countryCode": "tr",
+          "fullAddress": "Ormanada Evleri, Uskumruköyü Mah, kilyos cad, No: 246, villa no: 189, 34450, sariyer, Istanbul     Sarıyer İstanbul",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 382,
+          "addressId": null,
+          "orderId": 191,
+          "order": null,
+          "company": "",
+          "address1": "Ormanada Evleri, Uskumruköyü Mah, kilyos cad, No: 246, villa no: 189, 34450, sariyer, Istanbul ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "34000",
+          "countryCode": "tr",
+          "fullAddress": "Ormanada Evleri, Uskumruköyü Mah, kilyos cad, No: 246, villa no: 189, 34450, sariyer, Istanbul     Sarıyer İstanbul",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 190,
+      "orderNumber": "766235637",
+      "grossAmount": 85,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T02:17:55.707",
+      "estimatedDeliveryStartDate": "2021-09-06T23:17:55",
+      "estimatedDeliveryEndDate": "2021-09-10T23:17:55",
+      "source": "Trendyol",
+      "customer": {
+        "id": 190,
+        "firstName": "saliç",
+        "lastName": "aktaş",
+        "phoneNumber": "5532197326",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 190,
+        "trackingNumber": 7337153854444,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=8ef3fa29-b748-4b44-bf85-d75d1ca2ff8a",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 416,
+          "orderId": 190,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-03T23:17:58.734"
+        },
+        {
+          "id": 417,
+          "orderId": 190,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-03T23:18:00.926"
+        },
+        {
+          "id": 418,
+          "orderId": 190,
+          "order": null,
+          "orderStatus": "Shipped",
+          "lastStatusChangeDate": "2021-09-06T15:44:17.353"
+        }
+      ],
+      "lines": [
+        {
+          "id": 198,
+          "orderId": 190,
+          "order": null,
+          "productName": "6’lı Vakumlu Poşet Set-1 8697623589573, one size",
+          "quantity": 1,
+          "sku": "8697623589573",
+          "discount": 0,
+          "amount": 85,
+          "currencyCode": "TRY",
+          "vatAmount": 18,
+          "barcode": "8697623589573",
+          "stockCode": "P-M-018"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 379,
+          "addressId": null,
+          "orderId": 190,
+          "order": null,
+          "company": "",
+          "address1": "tolga eti ilkokulu ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "34000",
+          "countryCode": "TR",
+          "fullAddress": "tolga eti ilkokulu     Arnavutköy İstanbul",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 380,
+          "addressId": null,
+          "orderId": 190,
+          "order": null,
+          "company": "",
+          "address1": "tolga eti ilkokulu ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "34000",
+          "countryCode": "TR",
+          "fullAddress": "tolga eti ilkokulu     Arnavutköy İstanbul",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 189,
+      "orderNumber": "766238353",
+      "grossAmount": 169.9,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T02:20:35.154",
+      "estimatedDeliveryStartDate": "2021-09-06T23:20:35",
+      "estimatedDeliveryEndDate": "2021-09-10T23:20:35",
+      "source": "Trendyol",
+      "customer": {
+        "id": 189,
+        "firstName": "Melike",
+        "lastName": "Öztürk",
+        "phoneNumber": "5459010951",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 189,
+        "trackingNumber": 7270000015276250,
+        "trackingLink": null,
+        "senderNumber": null,
+        "providerName": "Sürat Kargo Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 414,
+          "orderId": 189,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-03T23:20:37.595"
+        },
+        {
+          "id": 415,
+          "orderId": 189,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-03T23:20:38.881"
+        }
+      ],
+      "lines": [
+        {
+          "id": 197,
+          "orderId": 189,
+          "order": null,
+          "productName": "15'li Vakumlu Poşet Seti 2 BCDF24722, one size",
+          "quantity": 1,
+          "sku": "8697623590944",
+          "discount": 0,
+          "amount": 169.9,
+          "currencyCode": "TRY",
+          "vatAmount": 18,
+          "barcode": "8697623590944",
+          "stockCode": "8697623580944"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 377,
+          "addressId": null,
+          "orderId": 189,
+          "order": null,
+          "company": "",
+          "address1": "40. sok no 3 d 2",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "16000",
+          "countryCode": "tr",
+          "fullAddress": "40. sok no 3 d 2     Osmangazi Bursa",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 378,
+          "addressId": null,
+          "orderId": 189,
+          "order": null,
+          "company": "",
+          "address1": "Demirtaş Cumhuriyet Mh. Demirtaş Osmangazi Cd. No: 107 A.Blk Osmangazi / BURSA / TÜRKİYE",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "16000",
+          "countryCode": "tr",
+          "fullAddress": "Demirtaş Cumhuriyet Mh. Demirtaş Osmangazi Cd. No: 107 A.Blk Osmangazi / BURSA / TÜRKİYE     Osmangazi Bursa",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 188,
+      "orderNumber": "766266304",
+      "grossAmount": 90,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T02:50:25.55",
+      "estimatedDeliveryStartDate": "2021-09-06T23:50:25",
+      "estimatedDeliveryEndDate": "2021-09-10T23:50:25",
+      "source": "Trendyol",
+      "customer": {
+        "id": 188,
+        "firstName": "Simge ",
+        "lastName": "Ceyhan",
+        "phoneNumber": "5378849156",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 188,
+        "trackingNumber": 7337154130264,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=31e1578a-8ccf-48fb-9a72-a0ad15085283",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 411,
+          "orderId": 188,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-03T23:50:27.357"
+        },
+        {
+          "id": 412,
+          "orderId": 188,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-03T23:50:28.75"
+        },
+        {
+          "id": 413,
+          "orderId": 188,
+          "order": null,
+          "orderStatus": "Shipped",
+          "lastStatusChangeDate": "2021-09-06T15:43:01.513"
+        }
+      ],
+      "lines": [
+        {
+          "id": 196,
+          "orderId": 188,
+          "order": null,
+          "productName": "8’li Vakumlu Poşet Set-1 8697623589603, one size",
+          "quantity": 1,
+          "sku": "8697623589603",
+          "discount": 0,
+          "amount": 90,
+          "currencyCode": "TRY",
+          "vatAmount": 18,
+          "barcode": "8697623589603",
+          "stockCode": "P-M-024"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 375,
+          "addressId": null,
+          "orderId": 188,
+          "order": null,
+          "company": "",
+          "address1": "Ağaoğlu my home sitesi A blok Kat 11 D 95 Maslak ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "34000",
+          "countryCode": "tr",
+          "fullAddress": "Ağaoğlu my home sitesi A blok Kat 11 D 95 Maslak     Sarıyer İstanbul",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 376,
+          "addressId": null,
+          "orderId": 188,
+          "order": null,
+          "company": "",
+          "address1": "Ağaoğlu my home sitesi A blok Kat 11 D 95 Maslak ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "34000",
+          "countryCode": "tr",
+          "fullAddress": "Ağaoğlu my home sitesi A blok Kat 11 D 95 Maslak     Sarıyer İstanbul",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 187,
+      "orderNumber": "766274744",
+      "grossAmount": 85,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T03:00:29.76",
+      "estimatedDeliveryStartDate": "2021-09-07T00:00:29",
+      "estimatedDeliveryEndDate": "2021-09-11T00:00:29",
+      "source": "Trendyol",
+      "customer": {
+        "id": 187,
+        "firstName": "tarık ahmet ",
+        "lastName": "şahin",
+        "phoneNumber": "5350367990",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 187,
+        "trackingNumber": 7337154207850,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=37e9c560-d3e1-4299-b6dc-47c719bb85f5",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 408,
+          "orderId": 187,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-04T00:00:32.131"
+        },
+        {
+          "id": 409,
+          "orderId": 187,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-04T00:00:33.676"
+        },
+        {
+          "id": 410,
+          "orderId": 187,
+          "order": null,
+          "orderStatus": "Shipped",
+          "lastStatusChangeDate": "2021-09-06T15:44:09.055"
+        }
+      ],
+      "lines": [
+        {
+          "id": 195,
+          "orderId": 187,
+          "order": null,
+          "productName": "6’lı Vakumlu Poşet Set-1 8697623589573, one size",
+          "quantity": 1,
+          "sku": "8697623589573",
+          "discount": 0,
+          "amount": 85,
+          "currencyCode": "TRY",
+          "vatAmount": 18,
+          "barcode": "8697623589573",
+          "stockCode": "P-M-018"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 373,
+          "addressId": null,
+          "orderId": 187,
+          "order": null,
+          "company": "",
+          "address1": "karakaş sokak erdem apartmanı taşkoparan inşaat ofisi",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "59000",
+          "countryCode": "tr",
+          "fullAddress": "karakaş sokak erdem apartmanı taşkoparan inşaat ofisi     Süleymanpaşa Tekirdağ",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 374,
+          "addressId": null,
+          "orderId": 187,
+          "order": null,
+          "company": "",
+          "address1": "karakaş sokak erdem apartmanı taşkoparan inşaat ofisi",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "59000",
+          "countryCode": "tr",
+          "fullAddress": "karakaş sokak erdem apartmanı taşkoparan inşaat ofisi     Süleymanpaşa Tekirdağ",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 186,
+      "orderNumber": "766278409",
+      "grossAmount": 90,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T03:04:59.615",
+      "estimatedDeliveryStartDate": "2021-09-07T00:04:59",
+      "estimatedDeliveryEndDate": "2021-09-11T00:04:59",
+      "source": "Trendyol",
+      "customer": {
+        "id": 186,
+        "firstName": "seçkin",
+        "lastName": "kurt",
+        "phoneNumber": "5548918584",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 186,
+        "trackingNumber": 7337154242448,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=d5775183-d021-4210-958d-a50b772a5a4b",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 405,
+          "orderId": 186,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-04T00:05:03.301"
+        },
+        {
+          "id": 406,
+          "orderId": 186,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-04T00:05:07.561"
+        },
+        {
+          "id": 407,
+          "orderId": 186,
+          "order": null,
+          "orderStatus": "Shipped",
+          "lastStatusChangeDate": "2021-09-06T15:42:42.459"
+        }
+      ],
+      "lines": [
+        {
+          "id": 194,
+          "orderId": 186,
+          "order": null,
+          "productName": "8’li Vakumlu Poşet Set-1 8697623589603, one size",
+          "quantity": 1,
+          "sku": "8697623589603",
+          "discount": 0,
+          "amount": 90,
+          "currencyCode": "TRY",
+          "vatAmount": 18,
+          "barcode": "8697623589603",
+          "stockCode": "P-M-024"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 371,
+          "addressId": null,
+          "orderId": 186,
+          "order": null,
+          "company": "",
+          "address1": "atatürk mahallesi 63/3 sokak no:1 daire:6 ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "35390",
+          "countryCode": "tr",
+          "fullAddress": "atatürk mahallesi 63/3 sokak no:1 daire:6     Buca İzmir",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 372,
+          "addressId": null,
+          "orderId": 186,
+          "order": null,
+          "company": "",
+          "address1": "atatürk mahallesi 63/3 sokak no:1 daire:6 ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "35390",
+          "countryCode": "tr",
+          "fullAddress": "atatürk mahallesi 63/3 sokak no:1 daire:6     Buca İzmir",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 185,
+      "orderNumber": "766280149",
+      "grossAmount": 85,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T03:07:11.973",
+      "estimatedDeliveryStartDate": "2021-09-07T00:07:11",
+      "estimatedDeliveryEndDate": "2021-09-11T00:07:11",
+      "source": "Trendyol",
+      "customer": {
+        "id": 185,
+        "firstName": "Ayşegül ",
+        "lastName": "Paksoy",
+        "phoneNumber": "5436339818",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 185,
+        "trackingNumber": 7337154263320,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=42a38bd2-685d-4984-bd79-f0ae242fdf76",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 402,
+          "orderId": 185,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-04T00:07:47.842"
+        },
+        {
+          "id": 403,
+          "orderId": 185,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-04T00:07:49.633"
+        },
+        {
+          "id": 404,
+          "orderId": 185,
+          "order": null,
+          "orderStatus": "Shipped",
+          "lastStatusChangeDate": "2021-09-06T15:43:54.3"
+        }
+      ],
+      "lines": [
+        {
+          "id": 193,
+          "orderId": 185,
+          "order": null,
+          "productName": "6’lı Vakumlu Poşet Set-1 8697623589573, one size",
+          "quantity": 1,
+          "sku": "8697623589573",
+          "discount": 0,
+          "amount": 85,
+          "currencyCode": "TRY",
+          "vatAmount": 18,
+          "barcode": "8697623589573",
+          "stockCode": "P-M-018"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 369,
+          "addressId": null,
+          "orderId": 185,
+          "order": null,
+          "company": "",
+          "address1": "Siteler mahallesi 9 eylül caddesi çavdar sitesi 10 C blok daire 10 ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "35000",
+          "countryCode": "tr",
+          "fullAddress": "Siteler mahallesi 9 eylül caddesi çavdar sitesi 10 C blok daire 10     Aliağa İzmir",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 370,
+          "addressId": null,
+          "orderId": 185,
+          "order": null,
+          "company": "",
+          "address1": "Siteler mahallesi 9 eylül caddesi çavdar sitesi 10 C blok daire 10 ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "35000",
+          "countryCode": "tr",
+          "fullAddress": "Siteler mahallesi 9 eylül caddesi çavdar sitesi 10 C blok daire 10     Aliağa İzmir",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 184,
+      "orderNumber": "766310912",
+      "grossAmount": 59.8,
+      "currencyCode": "TRY",
+      "totalDiscount": 3,
+      "date": "2021-09-04T03:55:07.933",
+      "estimatedDeliveryStartDate": "2021-09-07T00:55:07",
+      "estimatedDeliveryEndDate": "2021-09-11T00:55:07",
+      "source": "Trendyol",
+      "customer": {
+        "id": 184,
+        "firstName": "Ahmet",
+        "lastName": "Şenduran",
+        "phoneNumber": "5357426601",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 184,
+        "trackingNumber": 7337154546539,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=114e9b44-1fce-4d5a-b545-b50c71a37116",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 399,
+          "orderId": 184,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-04T00:55:10.285"
+        },
+        {
+          "id": 400,
+          "orderId": 184,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-04T00:55:11.263"
+        },
+        {
+          "id": 401,
+          "orderId": 184,
+          "order": null,
+          "orderStatus": "Shipped",
+          "lastStatusChangeDate": "2021-09-06T15:44:51.273"
+        }
+      ],
+      "lines": [
+        {
+          "id": 192,
+          "orderId": 184,
+          "order": null,
+          "productName": "Vakumlu Seyahat Poşeti Seti 4’lü 8697623594379, one size",
+          "quantity": 2,
+          "sku": "86976235943779",
+          "discount": 1.5,
+          "amount": 29.9,
+          "currencyCode": "TRY",
+          "vatAmount": 8,
+          "barcode": "86976235943779",
+          "stockCode": "86976235943779"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 367,
+          "addressId": null,
+          "orderId": 184,
+          "order": null,
+          "company": "",
+          "address1": "Cennet mahallesi Hürriyet caddesi no:27/16 Can apartmanı ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "34000",
+          "countryCode": "tr",
+          "fullAddress": "Cennet mahallesi Hürriyet caddesi no:27/16 Can apartmanı     Küçükçekmece İstanbul",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 368,
+          "addressId": null,
+          "orderId": 184,
+          "order": null,
+          "company": "",
+          "address1": "Cennet mahallesi Hürriyet caddesi no:27/16 Can apartmanı ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "34000",
+          "countryCode": "tr",
+          "fullAddress": "Cennet mahallesi Hürriyet caddesi no:27/16 Can apartmanı     Küçükçekmece İstanbul",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 183,
+      "orderNumber": "766331525",
+      "grossAmount": 90,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T04:47:05.501",
+      "estimatedDeliveryStartDate": "1970-01-01T02:00:00",
+      "estimatedDeliveryEndDate": "1970-01-01T02:00:00",
+      "source": "Trendyol",
+      "customer": {
+        "id": 183,
+        "firstName": "Sibel",
+        "lastName": "BOZOK",
+        "phoneNumber": "5339294383",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 183,
+        "trackingNumber": 7337154739313,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=dbdd058f-602d-421e-93a8-80fd4102859c",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 396,
+          "orderId": 183,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-04T01:47:08.685"
+        },
+        {
+          "id": 397,
+          "orderId": 183,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-04T01:47:08.686"
+        },
+        {
+          "id": 398,
+          "orderId": 183,
+          "order": null,
+          "orderStatus": "Shipped",
+          "lastStatusChangeDate": "2021-09-06T15:42:40.247"
+        }
+      ],
+      "lines": [
+        {
+          "id": 191,
+          "orderId": 183,
+          "order": null,
+          "productName": "8’li Vakumlu Poşet Set-1 8697623589603, one size",
+          "quantity": 1,
+          "sku": "8697623589603",
+          "discount": 0,
+          "amount": 90,
+          "currencyCode": "TRY",
+          "vatAmount": 18,
+          "barcode": "8697623589603",
+          "stockCode": "P-M-024"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 365,
+          "addressId": null,
+          "orderId": 183,
+          "order": null,
+          "company": "",
+          "address1": "Batısitesi mahallesi 1820 cad. esnaf sanatkarlar sitesi 1.grup 5.Blok No:12 Batıkent ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "06000",
+          "countryCode": "tr",
+          "fullAddress": "Batısitesi mahallesi 1820 cad. esnaf sanatkarlar sitesi 1.grup 5.Blok No:12 Batıkent     Yenimahalle Ankara",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 366,
+          "addressId": null,
+          "orderId": 183,
+          "order": null,
+          "company": "",
+          "address1": "karayolları genel Müdürlüğü Basın Ve Halkla İlişkiler Birimi F Blok 2 Kat inönü bulvarı no:14 yücetepe ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "06000",
+          "countryCode": "tr",
+          "fullAddress": "karayolları genel Müdürlüğü Basın Ve Halkla İlişkiler Birimi F Blok 2 Kat inönü bulvarı no:14 yücetepe     Çankaya Ankara",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 182,
+      "orderNumber": "766346245",
+      "grossAmount": 179,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T06:02:10.909",
+      "estimatedDeliveryStartDate": "2021-09-07T03:02:10",
+      "estimatedDeliveryEndDate": "2021-09-11T03:02:10",
+      "source": "Trendyol",
+      "customer": {
+        "id": 182,
+        "firstName": "Ömer ",
+        "lastName": "Avcı",
+        "phoneNumber": "5335563235",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 182,
+        "trackingNumber": 7337154873895,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=245bde32-aec0-4c9d-b0dd-3b3397adf80d",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 393,
+          "orderId": 182,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-04T03:02:54.488"
+        },
+        {
+          "id": 394,
+          "orderId": 182,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-04T03:02:55.911"
+        },
+        {
+          "id": 395,
+          "orderId": 182,
+          "order": null,
+          "orderStatus": "Shipped",
+          "lastStatusChangeDate": "2021-09-06T15:45:19.425"
+        }
+      ],
+      "lines": [
+        {
+          "id": 190,
+          "orderId": 182,
+          "order": null,
+          "productName": "10’lu Vakumlu Poşet Set-4 8697623598629, one size",
+          "quantity": 1,
+          "sku": "8697623598629",
+          "discount": 0,
+          "amount": 179,
+          "currencyCode": "TRY",
+          "vatAmount": 8,
+          "barcode": "8697623598629",
+          "stockCode": "8697623598629"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 363,
+          "addressId": null,
+          "orderId": 182,
+          "order": null,
+          "company": "",
+          "address1": "Büyükdere caddesi musa dayı sokak özer iş merkezi no:5 ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "34000",
+          "countryCode": "tr",
+          "fullAddress": "Büyükdere caddesi musa dayı sokak özer iş merkezi no:5     Şişli İstanbul",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 364,
+          "addressId": null,
+          "orderId": 182,
+          "order": null,
+          "company": "",
+          "address1": "Büyükdere caddesi musa dayı sokak özer iş merkezi no:5 ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "34000",
+          "countryCode": "tr",
+          "fullAddress": "Büyükdere caddesi musa dayı sokak özer iş merkezi no:5     Şişli İstanbul",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 181,
+      "orderNumber": "766363396",
+      "grossAmount": 101.6,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T10:26:37.093",
+      "estimatedDeliveryStartDate": "2021-09-07T07:26:36",
+      "estimatedDeliveryEndDate": "2021-09-11T07:26:36",
+      "source": "Trendyol",
+      "customer": {
+        "id": 181,
+        "firstName": "Atzu",
+        "lastName": "Özen",
+        "phoneNumber": "5052646878",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 181,
+        "trackingNumber": 7337155021790,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=00a3e77c-837a-46aa-86ae-5721e4d10897",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 390,
+          "orderId": 181,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-04T07:26:38.557"
+        },
+        {
+          "id": 391,
+          "orderId": 181,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-04T07:26:41.133"
+        },
+        {
+          "id": 392,
+          "orderId": 181,
+          "order": null,
+          "orderStatus": "Shipped",
+          "lastStatusChangeDate": "2021-09-06T15:44:20.19"
+        }
+      ],
+      "lines": [
+        {
+          "id": 189,
+          "orderId": 181,
+          "order": null,
+          "productName": "2'li Seyahat Vakumlu Poşet Seti (L) Msb-2019-013, one size",
+          "quantity": 4,
+          "sku": "8697623594379",
+          "discount": 0,
+          "amount": 25.4,
+          "currencyCode": "TRY",
+          "vatAmount": 18,
+          "barcode": "8697623594379",
+          "stockCode": "8697623594379"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 361,
+          "addressId": null,
+          "orderId": 181,
+          "order": null,
+          "company": "",
+          "address1": "Uğır mumcu mah. Akasya sok. Bilimkent sitesi Papatya apt. No 11 Daire28 Yakacık Kartal istanbul ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "34000",
+          "countryCode": "tr",
+          "fullAddress": "Uğır mumcu mah. Akasya sok. Bilimkent sitesi Papatya apt. No 11 Daire28 Yakacık Kartal istanbul     Kartal İstanbul",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 362,
+          "addressId": null,
+          "orderId": 181,
+          "order": null,
+          "company": "",
+          "address1": "Uğır mumcu mah. Akasya sok. Bilimkent sitesi Papatya apt. No 11 Daire28 Yakacık Kartal istanbul ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "34000",
+          "countryCode": "tr",
+          "fullAddress": "Uğır mumcu mah. Akasya sok. Bilimkent sitesi Papatya apt. No 11 Daire28 Yakacık Kartal istanbul     Kartal İstanbul",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 180,
+      "orderNumber": "766377955",
+      "grossAmount": 29.9,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T11:40:57.464",
+      "estimatedDeliveryStartDate": "2021-09-07T08:40:57",
+      "estimatedDeliveryEndDate": "2021-09-11T08:40:57",
+      "source": "Trendyol",
+      "customer": {
+        "id": 180,
+        "firstName": "Aslı",
+        "lastName": "Apaydın",
+        "phoneNumber": "5332182938",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 180,
+        "trackingNumber": 7337155159356,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=7042c73a-0cd5-4e89-8022-3614c56b5384",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 387,
+          "orderId": 180,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-04T08:41:01.222"
+        },
+        {
+          "id": 388,
+          "orderId": 180,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-04T08:41:06.846"
+        },
+        {
+          "id": 389,
+          "orderId": 180,
+          "order": null,
+          "orderStatus": "Shipped",
+          "lastStatusChangeDate": "2021-09-06T16:03:07.319"
+        }
+      ],
+      "lines": [
+        {
+          "id": 188,
+          "orderId": 180,
+          "order": null,
+          "productName": "Vakumlu Seyahat Poşeti Seti 4’lü 8697623594379, one size",
+          "quantity": 1,
+          "sku": "86976235943779",
+          "discount": 0,
+          "amount": 29.9,
+          "currencyCode": "TRY",
+          "vatAmount": 8,
+          "barcode": "86976235943779",
+          "stockCode": "86976235943779"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 359,
+          "addressId": null,
+          "orderId": 180,
+          "order": null,
+          "company": "",
+          "address1": "Mesa koru sitesi/ Kavaklı sok. Menekşe blok. No:29 Çayyolu",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "06450",
+          "countryCode": "TR",
+          "fullAddress": "Mesa koru sitesi/ Kavaklı sok. Menekşe blok. No:29 Çayyolu     Çankaya Ankara",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 360,
+          "addressId": null,
+          "orderId": 180,
+          "order": null,
+          "company": "",
+          "address1": "Mesa koru sitesi/ Kavaklı sok. Menekşe blok. No:29 Çayyolu",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "06450",
+          "countryCode": "TR",
+          "fullAddress": "Mesa koru sitesi/ Kavaklı sok. Menekşe blok. No:29 Çayyolu     Çankaya Ankara",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 179,
+      "orderNumber": "766417865",
+      "grossAmount": 90,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T12:58:12.069",
+      "estimatedDeliveryStartDate": "2021-09-07T09:58:11",
+      "estimatedDeliveryEndDate": "2021-09-11T09:58:11",
+      "source": "Trendyol",
+      "customer": {
+        "id": 179,
+        "firstName": "Begüm ",
+        "lastName": "KADI",
+        "phoneNumber": "5445621428",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 179,
+        "trackingNumber": 7337155514643,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=14711430-a85b-45b4-88a9-7bee8189180f",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 384,
+          "orderId": 179,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-04T09:58:15.804"
+        },
+        {
+          "id": 385,
+          "orderId": 179,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-04T09:58:17.566"
+        },
+        {
+          "id": 386,
+          "orderId": 179,
+          "order": null,
+          "orderStatus": "Shipped",
+          "lastStatusChangeDate": "2021-09-06T16:03:25.372"
+        }
+      ],
+      "lines": [
+        {
+          "id": 187,
+          "orderId": 179,
+          "order": null,
+          "productName": "8’li Vakumlu Poşet Set-1 8697623589603, one size",
+          "quantity": 1,
+          "sku": "8697623589603",
+          "discount": 0,
+          "amount": 90,
+          "currencyCode": "TRY",
+          "vatAmount": 18,
+          "barcode": "8697623589603",
+          "stockCode": "P-M-024"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 357,
+          "addressId": null,
+          "orderId": 179,
+          "order": null,
+          "company": "",
+          "address1": "Çeltikçi Mahallesi Milli Egemenlik Caddesi Morkent Evleri 30. Blok Kat:3 Daire:5",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "09000",
+          "countryCode": "TR",
+          "fullAddress": "Çeltikçi Mahallesi Milli Egemenlik Caddesi Morkent Evleri 30. Blok Kat:3 Daire:5     Söke Aydın",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 358,
+          "addressId": null,
+          "orderId": 179,
+          "order": null,
+          "company": "",
+          "address1": "Çeltikçi Mahallesi Milli Egemenlik Caddesi Morkent Evleri 30. Blok Kat:3 Daire:5",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "09000",
+          "countryCode": "TR",
+          "fullAddress": "Çeltikçi Mahallesi Milli Egemenlik Caddesi Morkent Evleri 30. Blok Kat:3 Daire:5     Söke Aydın",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 178,
+      "orderNumber": "766439815",
+      "grossAmount": 109.9,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T13:26:29.405",
+      "estimatedDeliveryStartDate": "2021-09-07T10:26:29",
+      "estimatedDeliveryEndDate": "2021-09-11T10:26:29",
+      "source": "Trendyol",
+      "customer": {
+        "id": 178,
+        "firstName": "Yeliz",
+        "lastName": "yazıcı",
+        "phoneNumber": "5456493453",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 178,
+        "trackingNumber": 7337155705942,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=1a9c1069-7b51-44f4-80e5-e6df40a9b836",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 381,
+          "orderId": 178,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-04T10:26:49.749"
+        },
+        {
+          "id": 382,
+          "orderId": 178,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-04T10:26:52.654"
+        },
+        {
+          "id": 383,
+          "orderId": 178,
+          "order": null,
+          "orderStatus": "Shipped",
+          "lastStatusChangeDate": "2021-09-06T16:03:32.69"
+        }
+      ],
+      "lines": [
+        {
+          "id": 186,
+          "orderId": 178,
+          "order": null,
+          "productName": "8’li Vakumlu Poşet Set-3 8697623589627, one size",
+          "quantity": 1,
+          "sku": "8697623589627",
+          "discount": 0,
+          "amount": 109.9,
+          "currencyCode": "TRY",
+          "vatAmount": 18,
+          "barcode": "8697623589627",
+          "stockCode": "P-M-026"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 355,
+          "addressId": null,
+          "orderId": 178,
+          "order": null,
+          "company": "",
+          "address1": "Gümüşsuyu mahallesi mandıra caddesi parsel çıkmazı no 8 ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "34000",
+          "countryCode": "tr",
+          "fullAddress": "Gümüşsuyu mahallesi mandıra caddesi parsel çıkmazı no 8     Beykoz İstanbul",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 356,
+          "addressId": null,
+          "orderId": 178,
+          "order": null,
+          "company": "",
+          "address1": "Gümüşsuyu mahallesi mandıra caddesi parsel çıkmazı no 8 ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "34000",
+          "countryCode": "tr",
+          "fullAddress": "Gümüşsuyu mahallesi mandıra caddesi parsel çıkmazı no 8     Beykoz İstanbul",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 177,
+      "orderNumber": "766449093",
+      "grossAmount": 90,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T13:37:40.834",
+      "estimatedDeliveryStartDate": "2021-09-07T10:37:40",
+      "estimatedDeliveryEndDate": "2021-09-11T10:37:40",
+      "source": "Trendyol",
+      "customer": {
+        "id": 177,
+        "firstName": "Gülniyaz ",
+        "lastName": "Özcan ",
+        "phoneNumber": "5052155613",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 177,
+        "trackingNumber": 7337155785791,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=ad7faebb-16c7-4e95-8e55-4bf8a8c15c7d",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 378,
+          "orderId": 177,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-04T10:37:45.385"
+        },
+        {
+          "id": 379,
+          "orderId": 177,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-04T10:37:46.895"
+        },
+        {
+          "id": 380,
+          "orderId": 177,
+          "order": null,
+          "orderStatus": "Shipped",
+          "lastStatusChangeDate": "2021-09-06T16:03:20.169"
+        }
+      ],
+      "lines": [
+        {
+          "id": 185,
+          "orderId": 177,
+          "order": null,
+          "productName": "8’li Vakumlu Poşet Set-1 8697623589603, one size",
+          "quantity": 1,
+          "sku": "8697623589603",
+          "discount": 0,
+          "amount": 90,
+          "currencyCode": "TRY",
+          "vatAmount": 18,
+          "barcode": "8697623589603",
+          "stockCode": "P-M-024"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 353,
+          "addressId": null,
+          "orderId": 177,
+          "order": null,
+          "company": "",
+          "address1": "Yeni Mahalle Şehit Ersan Caddesi No:18/A Burcu Eczanesi ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "15000",
+          "countryCode": "tr",
+          "fullAddress": "Yeni Mahalle Şehit Ersan Caddesi No:18/A Burcu Eczanesi     Merkez Burdur",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 354,
+          "addressId": null,
+          "orderId": 177,
+          "order": null,
+          "company": "",
+          "address1": "Yeni Mahalle Şehit Ersan Caddesi No:18/A Burcu Eczanesi ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "15000",
+          "countryCode": "tr",
+          "fullAddress": "Yeni Mahalle Şehit Ersan Caddesi No:18/A Burcu Eczanesi     Merkez Burdur",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 176,
+      "orderNumber": "766471883",
+      "grossAmount": 85,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T14:03:00.511",
+      "estimatedDeliveryStartDate": "2021-09-07T11:03:00",
+      "estimatedDeliveryEndDate": "2021-09-11T11:03:00",
+      "source": "Trendyol",
+      "customer": {
+        "id": 176,
+        "firstName": "Emin",
+        "lastName": "Hülakü",
+        "phoneNumber": "5416469905",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 176,
+        "trackingNumber": 7270000016404133,
+        "trackingLink": null,
+        "senderNumber": null,
+        "providerName": "Sürat Kargo Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 376,
+          "orderId": 176,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-04T11:04:29.965"
+        },
+        {
+          "id": 377,
+          "orderId": 176,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-04T11:04:33.631"
+        }
+      ],
+      "lines": [
+        {
+          "id": 184,
+          "orderId": 176,
+          "order": null,
+          "productName": "6’lı Vakumlu Poşet Set-1 8697623589573, one size",
+          "quantity": 1,
+          "sku": "8697623589573",
+          "discount": 0,
+          "amount": 85,
+          "currencyCode": "TRY",
+          "vatAmount": 18,
+          "barcode": "8697623589573",
+          "stockCode": "P-M-018"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 351,
+          "addressId": null,
+          "orderId": 176,
+          "order": null,
+          "company": "",
+          "address1": "1423 sokak Havadar sitesi 9.blok Daire no:2 ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "07000",
+          "countryCode": "tr",
+          "fullAddress": "1423 sokak Havadar sitesi 9.blok Daire no:2     Muratpaşa Antalya",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 352,
+          "addressId": null,
+          "orderId": 176,
+          "order": null,
+          "company": "",
+          "address1": "Sinan Mh. Receppeker Cd. No: 25 A.Blk Muratpaşa / ANTALYA / TÜRKİYE",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "07000",
+          "countryCode": "tr",
+          "fullAddress": "Sinan Mh. Receppeker Cd. No: 25 A.Blk Muratpaşa / ANTALYA / TÜRKİYE     Muratpaşa Antalya",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 175,
+      "orderNumber": "766480700",
+      "grossAmount": 149.8,
+      "currencyCode": "TRY",
+      "totalDiscount": 3,
+      "date": "2021-09-04T14:12:08.124",
+      "estimatedDeliveryStartDate": "2021-09-07T11:12:08",
+      "estimatedDeliveryEndDate": "2021-09-11T11:12:08",
+      "source": "Trendyol",
+      "customer": {
+        "id": 175,
+        "firstName": "Fatma",
+        "lastName": "Dombaycı",
+        "phoneNumber": "5438371650",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 175,
+        "trackingNumber": 7270000016437117,
+        "trackingLink": null,
+        "senderNumber": null,
+        "providerName": "Sürat Kargo Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 374,
+          "orderId": 175,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-04T11:12:11.809"
+        },
+        {
+          "id": 375,
+          "orderId": 175,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-04T11:12:13.124"
+        }
+      ],
+      "lines": [
+        {
+          "id": 182,
+          "orderId": 175,
+          "order": null,
+          "productName": "4'lü Seyahat Poşeti Roll-up (Xs+s+m+l) 8697623594928, one size",
+          "quantity": 1,
+          "sku": "8697623594928",
+          "discount": 0.6,
+          "amount": 29.9,
+          "currencyCode": "TRY",
+          "vatAmount": 18,
+          "barcode": "8697623594928",
+          "stockCode": "8697623594928"
+        },
+        {
+          "id": 183,
+          "orderId": 175,
+          "order": null,
+          "productName": "10'lu Vakumlu Poşet Seti 3 43334000000, one size",
+          "quantity": 1,
+          "sku": "43334000000",
+          "discount": 2.4,
+          "amount": 119.9,
+          "currencyCode": "TRY",
+          "vatAmount": 18,
+          "barcode": "43334000000",
+          "stockCode": "43334000000"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 349,
+          "addressId": null,
+          "orderId": 175,
+          "order": null,
+          "company": "",
+          "address1": "Üyükbaşı mah. Remzi Devecioğlu Cad. No:14",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "",
+          "countryCode": "tr",
+          "fullAddress": "Üyükbaşı mah. Remzi Devecioğlu Cad. No:14     Ulubey Uşak",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 350,
+          "addressId": null,
+          "orderId": 175,
+          "order": null,
+          "company": "",
+          "address1": "Üyükbaşı mah. Remzi Devecioğlu Cad. (Kütüphanenin Çaprazındaki Önü Çardaklı Mor Ev) No:14",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "",
+          "countryCode": "tr",
+          "fullAddress": "Üyükbaşı mah. Remzi Devecioğlu Cad. (Kütüphanenin Çaprazındaki Önü Çardaklı Mor Ev) No:14     Ulubey Uşak",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 174,
+      "orderNumber": "766501822",
+      "grossAmount": 85,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T14:32:38.297",
+      "estimatedDeliveryStartDate": "2021-09-07T11:32:38",
+      "estimatedDeliveryEndDate": "2021-09-11T11:32:38",
+      "source": "Trendyol",
+      "customer": {
+        "id": 174,
+        "firstName": "Oğuzhan ",
+        "lastName": "Turan",
+        "phoneNumber": "5078515756",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 174,
+        "trackingNumber": 7337156248882,
+        "trackingLink": null,
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 372,
+          "orderId": 174,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-04T11:33:06.956"
+        },
+        {
+          "id": 373,
+          "orderId": 174,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-04T11:33:09.622"
+        }
+      ],
+      "lines": [
+        {
+          "id": 181,
+          "orderId": 174,
+          "order": null,
+          "productName": "6’lı Vakumlu Poşet Set-1 8697623589573, one size",
+          "quantity": 1,
+          "sku": "8697623589573",
+          "discount": 0,
+          "amount": 85,
+          "currencyCode": "TRY",
+          "vatAmount": 18,
+          "barcode": "8697623589573",
+          "stockCode": "P-M-018"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 347,
+          "addressId": null,
+          "orderId": 174,
+          "order": null,
+          "company": "",
+          "address1": "8045 sok no 29 kat 1 d:2 hacı Hayriye Güney apt. ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "35000",
+          "countryCode": "tr",
+          "fullAddress": "8045 sok no 29 kat 1 d:2 hacı Hayriye Güney apt.     Çiğli İzmir",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 348,
+          "addressId": null,
+          "orderId": 174,
+          "order": null,
+          "company": "",
+          "address1": "8045 sok no 29 kat 1 d:2 hacı Hayriye Güney apt. ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "35000",
+          "countryCode": "tr",
+          "fullAddress": "8045 sok no 29 kat 1 d:2 hacı Hayriye Güney apt.     Çiğli İzmir",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 173,
+      "orderNumber": "766522838",
+      "grossAmount": 29.9,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T14:51:45.828",
+      "estimatedDeliveryStartDate": "2021-09-07T11:51:45",
+      "estimatedDeliveryEndDate": "2021-09-11T11:51:45",
+      "source": "Trendyol",
+      "customer": {
+        "id": 173,
+        "firstName": "Merve",
+        "lastName": "Çetin",
+        "phoneNumber": "5059662929",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 173,
+        "trackingNumber": 7337156430973,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=3b261b83-e390-4867-9a5e-2b86536073db",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 369,
+          "orderId": 173,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-04T11:51:46.986"
+        },
+        {
+          "id": 370,
+          "orderId": 173,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-04T11:51:48.312"
+        },
+        {
+          "id": 371,
+          "orderId": 173,
+          "order": null,
+          "orderStatus": "Shipped",
+          "lastStatusChangeDate": "2021-09-06T16:04:09.28"
+        }
+      ],
+      "lines": [
+        {
+          "id": 180,
+          "orderId": 173,
+          "order": null,
+          "productName": "Vakumlu Seyahat Poşeti Seti 4’lü 8697623594379, one size",
+          "quantity": 1,
+          "sku": "86976235943779",
+          "discount": 0,
+          "amount": 29.9,
+          "currencyCode": "TRY",
+          "vatAmount": 8,
+          "barcode": "86976235943779",
+          "stockCode": "86976235943779"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 345,
+          "addressId": null,
+          "orderId": 173,
+          "order": null,
+          "company": "",
+          "address1": "Bilkent üniversitesi.Üniversiteler mahallesi 1598.cadde. Merkez kampüs 75.yurt",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "06000",
+          "countryCode": "TR",
+          "fullAddress": "Bilkent üniversitesi.Üniversiteler mahallesi 1598.cadde. Merkez kampüs 75.yurt     Çankaya Ankara",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 346,
+          "addressId": null,
+          "orderId": 173,
+          "order": null,
+          "company": "",
+          "address1": "Bilkent üniversitesi.Üniversiteler mahallesi 1598.cadde. Merkez kampüs 75.yurt",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "06000",
+          "countryCode": "TR",
+          "fullAddress": "Bilkent üniversitesi.Üniversiteler mahallesi 1598.cadde. Merkez kampüs 75.yurt     Çankaya Ankara",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 172,
+      "orderNumber": "766581269",
+      "grossAmount": 90,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T15:39:22.474",
+      "estimatedDeliveryStartDate": "2021-09-07T12:39:22",
+      "estimatedDeliveryEndDate": "2021-09-11T12:39:22",
+      "source": "Trendyol",
+      "customer": {
+        "id": 172,
+        "firstName": "Sevilcan",
+        "lastName": "Şenyıldız",
+        "phoneNumber": "5382703750",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 172,
+        "trackingNumber": 7337156934365,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=ade22400-3f6d-4224-be3c-4f1f30a77eae",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 366,
+          "orderId": 172,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-04T12:39:24.13"
+        },
+        {
+          "id": 367,
+          "orderId": 172,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-04T12:39:25.827"
+        },
+        {
+          "id": 368,
+          "orderId": 172,
+          "order": null,
+          "orderStatus": "Shipped",
+          "lastStatusChangeDate": "2021-09-06T16:03:37.218"
+        }
+      ],
+      "lines": [
+        {
+          "id": 179,
+          "orderId": 172,
+          "order": null,
+          "productName": "8’li Vakumlu Poşet Set-1 8697623589603, one size",
+          "quantity": 1,
+          "sku": "8697623589603",
+          "discount": 0,
+          "amount": 90,
+          "currencyCode": "TRY",
+          "vatAmount": 18,
+          "barcode": "8697623589603",
+          "stockCode": "P-M-024"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 343,
+          "addressId": null,
+          "orderId": 172,
+          "order": null,
+          "company": "",
+          "address1": "Yıldırım Mahallesi Kızılırmak Sokak No:20 Daire:3",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "34000",
+          "countryCode": "tr",
+          "fullAddress": "Yıldırım Mahallesi Kızılırmak Sokak No:20 Daire:3     Bayrampaşa İstanbul",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 344,
+          "addressId": null,
+          "orderId": 172,
+          "order": null,
+          "company": "",
+          "address1": "Yıldırım Mahallesi Kızılırmak Sokak No:20 Daire:3",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "34000",
+          "countryCode": "tr",
+          "fullAddress": "Yıldırım Mahallesi Kızılırmak Sokak No:20 Daire:3     Bayrampaşa İstanbul",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 171,
+      "orderNumber": "766596172",
+      "grossAmount": 90,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T15:50:58.27",
+      "estimatedDeliveryStartDate": "2021-09-07T12:50:58",
+      "estimatedDeliveryEndDate": "2021-09-11T12:50:58",
+      "source": "Trendyol",
+      "customer": {
+        "id": 171,
+        "firstName": "Seyhan",
+        "lastName": "Karahan",
+        "phoneNumber": "5419728556",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 171,
+        "trackingNumber": 7337157062814,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=38c80df5-7236-4761-b7dd-92d8d982cb77",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 363,
+          "orderId": 171,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-04T12:51:02.714"
+        },
+        {
+          "id": 364,
+          "orderId": 171,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-04T12:51:09.48"
+        },
+        {
+          "id": 365,
+          "orderId": 171,
+          "order": null,
+          "orderStatus": "Shipped",
+          "lastStatusChangeDate": "2021-09-06T16:03:13.011"
+        }
+      ],
+      "lines": [
+        {
+          "id": 178,
+          "orderId": 171,
+          "order": null,
+          "productName": "8’li Vakumlu Poşet Set-1 8697623589603, one size",
+          "quantity": 1,
+          "sku": "8697623589603",
+          "discount": 0,
+          "amount": 90,
+          "currencyCode": "TRY",
+          "vatAmount": 18,
+          "barcode": "8697623589603",
+          "stockCode": "P-M-024"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 341,
+          "addressId": null,
+          "orderId": 171,
+          "order": null,
+          "company": "",
+          "address1": "Dr. Faruk Ayanoğlu cad. Iğrıp sok. Fenerbahçe Orduevi F blok daire :8 Fenerbahçe Kadıköy ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "34000",
+          "countryCode": "tr",
+          "fullAddress": "Dr. Faruk Ayanoğlu cad. Iğrıp sok. Fenerbahçe Orduevi F blok daire :8 Fenerbahçe Kadıköy     Kadıköy İstanbul",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 342,
+          "addressId": null,
+          "orderId": 171,
+          "order": null,
+          "company": "",
+          "address1": "Dr. Faruk Ayanoğlu cad. Iğrıp sok. Fenerbahçe Orduevi F blok daire :8 Fenerbahçe Kadıköy ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "34000",
+          "countryCode": "tr",
+          "fullAddress": "Dr. Faruk Ayanoğlu cad. Iğrıp sok. Fenerbahçe Orduevi F blok daire :8 Fenerbahçe Kadıköy     Kadıköy İstanbul",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 170,
+      "orderNumber": "766625728",
+      "grossAmount": 90,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T16:14:29.084",
+      "estimatedDeliveryStartDate": "2021-09-07T13:14:28",
+      "estimatedDeliveryEndDate": "2021-09-11T13:14:28",
+      "source": "Trendyol",
+      "customer": {
+        "id": 170,
+        "firstName": "Çağnur",
+        "lastName": "Hacımahmutoğlu",
+        "phoneNumber": "5378570119",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 170,
+        "trackingNumber": 7337157316993,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=4cb3ec85-22e6-4409-9209-028c33744565",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 360,
+          "orderId": 170,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-04T13:14:32.339"
+        },
+        {
+          "id": 361,
+          "orderId": 170,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-04T13:14:33.595"
+        },
+        {
+          "id": 362,
+          "orderId": 170,
+          "order": null,
+          "orderStatus": "Shipped",
+          "lastStatusChangeDate": "2021-09-06T16:04:22.25"
+        }
+      ],
+      "lines": [
+        {
+          "id": 177,
+          "orderId": 170,
+          "order": null,
+          "productName": "8’li Vakumlu Poşet Set-1 8697623589603, one size",
+          "quantity": 1,
+          "sku": "8697623589603",
+          "discount": 0,
+          "amount": 90,
+          "currencyCode": "TRY",
+          "vatAmount": 18,
+          "barcode": "8697623589603",
+          "stockCode": "P-M-024"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 339,
+          "addressId": null,
+          "orderId": 170,
+          "order": null,
+          "company": "",
+          "address1": "Cevizli Mahallesi Piri Reis Caddesi Polenium Dragos Suites C Blok D 13 ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "34000",
+          "countryCode": "TR",
+          "fullAddress": "Cevizli Mahallesi Piri Reis Caddesi Polenium Dragos Suites C Blok D 13     Maltepe İstanbul",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 340,
+          "addressId": null,
+          "orderId": 170,
+          "order": null,
+          "company": "",
+          "address1": "Cevizli Mahallesi Piri Reis Caddesi Polenium Dragos Suites C Blok D 13 ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "34000",
+          "countryCode": "TR",
+          "fullAddress": "Cevizli Mahallesi Piri Reis Caddesi Polenium Dragos Suites C Blok D 13     Maltepe İstanbul",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 169,
+      "orderNumber": "766660395",
+      "grossAmount": 90,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T16:40:26.165",
+      "estimatedDeliveryStartDate": "2021-09-07T13:40:26",
+      "estimatedDeliveryEndDate": "2021-09-11T13:40:26",
+      "source": "Trendyol",
+      "customer": {
+        "id": 169,
+        "firstName": "Hatice",
+        "lastName": "Gencer Özbay",
+        "phoneNumber": "5456096017",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 169,
+        "trackingNumber": 7337157606001,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=380ef364-cff9-4b05-a2de-b0645cf3428c",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 357,
+          "orderId": 169,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-04T13:40:29.483"
+        },
+        {
+          "id": 358,
+          "orderId": 169,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-04T13:40:31.381"
+        },
+        {
+          "id": 359,
+          "orderId": 169,
+          "order": null,
+          "orderStatus": "Shipped",
+          "lastStatusChangeDate": "2021-09-06T16:03:44.055"
+        }
+      ],
+      "lines": [
+        {
+          "id": 176,
+          "orderId": 169,
+          "order": null,
+          "productName": "8’li Vakumlu Poşet Set-1 8697623589603, one size",
+          "quantity": 1,
+          "sku": "8697623589603",
+          "discount": 0,
+          "amount": 90,
+          "currencyCode": "TRY",
+          "vatAmount": 18,
+          "barcode": "8697623589603",
+          "stockCode": "P-M-024"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 337,
+          "addressId": null,
+          "orderId": 169,
+          "order": null,
+          "company": "",
+          "address1": "Meriç Sokak No 5 Kat 1",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "34000",
+          "countryCode": "tr",
+          "fullAddress": "Meriç Sokak No 5 Kat 1     Beykoz İstanbul",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 338,
+          "addressId": null,
+          "orderId": 169,
+          "order": null,
+          "company": "",
+          "address1": "Meriç Sokak No 5 Kat 1",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "34000",
+          "countryCode": "tr",
+          "fullAddress": "Meriç Sokak No 5 Kat 1     Beykoz İstanbul",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 168,
+      "orderNumber": "766675843",
+      "grossAmount": 89.9,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T16:52:20.366",
+      "estimatedDeliveryStartDate": "2021-09-07T13:52:20",
+      "estimatedDeliveryEndDate": "2021-09-11T13:52:20",
+      "source": "Trendyol",
+      "customer": {
+        "id": 168,
+        "firstName": "Emine ",
+        "lastName": "Altunal ",
+        "phoneNumber": "5333095655",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 168,
+        "trackingNumber": 7337157735558,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=cf1e8141-1382-4fe4-8a55-add37e3fc917",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 354,
+          "orderId": 168,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-04T13:52:22.366"
+        },
+        {
+          "id": 355,
+          "orderId": 168,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-04T13:52:24.798"
+        },
+        {
+          "id": 356,
+          "orderId": 168,
+          "order": null,
+          "orderStatus": "Shipped",
+          "lastStatusChangeDate": "2021-09-06T16:04:28.541"
+        }
+      ],
+      "lines": [
+        {
+          "id": 175,
+          "orderId": 168,
+          "order": null,
+          "productName": "6’lı Karışık Vakumlu Poşet Set+Pompa Hediyeli 8697623596335, one size",
+          "quantity": 1,
+          "sku": "8697623596335",
+          "discount": 0,
+          "amount": 89.9,
+          "currencyCode": "TRY",
+          "vatAmount": 18,
+          "barcode": "8697623596335",
+          "stockCode": "8697623596335"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 335,
+          "addressId": null,
+          "orderId": 168,
+          "order": null,
+          "company": "",
+          "address1": "Tekeoğlu sokak ışık apt. 15/1 ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "54000",
+          "countryCode": "tr",
+          "fullAddress": "Tekeoğlu sokak ışık apt. 15/1     Adapazarı Sakarya",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 336,
+          "addressId": null,
+          "orderId": 168,
+          "order": null,
+          "company": "",
+          "address1": "Tekeoğlu sokak ışık apt. 15/1 ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "54000",
+          "countryCode": "tr",
+          "fullAddress": "Tekeoğlu sokak ışık apt. 15/1     Adapazarı Sakarya",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 167,
+      "orderNumber": "766681120",
+      "grossAmount": 90,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T16:56:21.461",
+      "estimatedDeliveryStartDate": "2021-09-07T13:56:21",
+      "estimatedDeliveryEndDate": "2021-09-11T13:56:21",
+      "source": "Trendyol",
+      "customer": {
+        "id": 167,
+        "firstName": "zehra",
+        "lastName": "ertekin",
+        "phoneNumber": "5443772434",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 167,
+        "trackingNumber": 7337157785553,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=35d61e07-bd51-424c-a489-400a8880c1e0",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 351,
+          "orderId": 167,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-04T13:56:53.443"
+        },
+        {
+          "id": 352,
+          "orderId": 167,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-04T13:56:54.516"
+        },
+        {
+          "id": 353,
+          "orderId": 167,
+          "order": null,
+          "orderStatus": "Shipped",
+          "lastStatusChangeDate": "2021-09-06T16:04:02.01"
+        }
+      ],
+      "lines": [
+        {
+          "id": 174,
+          "orderId": 167,
+          "order": null,
+          "productName": "8’li Vakumlu Poşet Set-1 8697623589603, one size",
+          "quantity": 1,
+          "sku": "8697623589603",
+          "discount": 0,
+          "amount": 90,
+          "currencyCode": "TRY",
+          "vatAmount": 18,
+          "barcode": "8697623589603",
+          "stockCode": "P-M-024"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 333,
+          "addressId": null,
+          "orderId": 167,
+          "order": null,
+          "company": "",
+          "address1": "abdurrahmangazi mahallesi fatih bulvarı no 75 sultanbeyli istanbul Özel saygı hastanesi",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "34000",
+          "countryCode": "TR",
+          "fullAddress": "abdurrahmangazi mahallesi fatih bulvarı no 75 sultanbeyli istanbul Özel saygı hastanesi     Sultanbeyli İstanbul",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 334,
+          "addressId": null,
+          "orderId": 167,
+          "order": null,
+          "company": "",
+          "address1": "abdurrahmangazi mahallesi fatih bulvarı no 75 sultanbeyli istanbul Özel saygı hastanesi",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "34000",
+          "countryCode": "TR",
+          "fullAddress": "abdurrahmangazi mahallesi fatih bulvarı no 75 sultanbeyli istanbul Özel saygı hastanesi     Sultanbeyli İstanbul",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 166,
+      "orderNumber": "766726443",
+      "grossAmount": 59.8,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T17:30:41.478",
+      "estimatedDeliveryStartDate": "2021-09-07T14:30:41",
+      "estimatedDeliveryEndDate": "2021-09-11T14:30:41",
+      "source": "Trendyol",
+      "customer": {
+        "id": 166,
+        "firstName": "Gözde ",
+        "lastName": "Yılmaz",
+        "phoneNumber": "5532168829",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 166,
+        "trackingNumber": 7270000017464716,
+        "trackingLink": null,
+        "senderNumber": null,
+        "providerName": "Sürat Kargo Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 349,
+          "orderId": 166,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-04T14:30:43.825"
+        },
+        {
+          "id": 350,
+          "orderId": 166,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-04T14:30:46.148"
+        }
+      ],
+      "lines": [
+        {
+          "id": 173,
+          "orderId": 166,
+          "order": null,
+          "productName": "Blacc Skagen Gizli Kitap Rafı BlaccSkagen, one size",
+          "quantity": 2,
+          "sku": "8697623544994",
+          "discount": 0,
+          "amount": 29.9,
+          "currencyCode": "TRY",
+          "vatAmount": 18,
+          "barcode": "8697623544994",
+          "stockCode": "Blaccskagen"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 331,
+          "addressId": null,
+          "orderId": 166,
+          "order": null,
+          "company": "",
+          "address1": "Bay Mustafa Sokak No:17 Daire:1 ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "34000",
+          "countryCode": "tr",
+          "fullAddress": "Bay Mustafa Sokak No:17 Daire:1     Balçova İzmir",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 332,
+          "addressId": null,
+          "orderId": 166,
+          "order": null,
+          "company": "",
+          "address1": "Barbaros Hayrettin Paşa Mahallesi 2292 Sokak Bankkent Sitesi A1 Blok Daire: 16 Esenyurt",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "34000",
+          "countryCode": "tr",
+          "fullAddress": "Barbaros Hayrettin Paşa Mahallesi 2292 Sokak Bankkent Sitesi A1 Blok Daire: 16 Esenyurt     Esenyurt İstanbul",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 165,
+      "orderNumber": "766728746",
+      "grossAmount": 59.8,
+      "currencyCode": "TRY",
+      "totalDiscount": 3,
+      "date": "2021-09-04T17:32:24.684",
+      "estimatedDeliveryStartDate": "2021-09-07T14:32:24",
+      "estimatedDeliveryEndDate": "2021-09-11T14:32:24",
+      "source": "Trendyol",
+      "customer": {
+        "id": 165,
+        "firstName": "Nurcan",
+        "lastName": "Özat",
+        "phoneNumber": "5059241130",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 165,
+        "trackingNumber": 7337158173069,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=9cc014f6-b9af-4c32-8f5b-f8994232c5e0",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 346,
+          "orderId": 165,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-04T14:32:48.531"
+        },
+        {
+          "id": 347,
+          "orderId": 165,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-04T14:32:53.583"
+        },
+        {
+          "id": 348,
+          "orderId": 165,
+          "order": null,
+          "orderStatus": "Shipped",
+          "lastStatusChangeDate": "2021-09-06T16:02:49.765"
+        }
+      ],
+      "lines": [
+        {
+          "id": 172,
+          "orderId": 165,
+          "order": null,
+          "productName": "Vakumlu Seyahat Poşeti Seti 4’lü 8697623594379, one size",
+          "quantity": 2,
+          "sku": "86976235943779",
+          "discount": 1.5,
+          "amount": 29.9,
+          "currencyCode": "TRY",
+          "vatAmount": 8,
+          "barcode": "86976235943779",
+          "stockCode": "86976235943779"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 329,
+          "addressId": null,
+          "orderId": 165,
+          "order": null,
+          "company": "",
+          "address1": "Özalper mah Tevhid sok Açelya sitesi D blok kat 3 No 12 Yeşilyurt Malatya ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "44000",
+          "countryCode": "tr",
+          "fullAddress": "Özalper mah Tevhid sok Açelya sitesi D blok kat 3 No 12 Yeşilyurt Malatya     Yeşilyurt Malatya",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 330,
+          "addressId": null,
+          "orderId": 165,
+          "order": null,
+          "company": "",
+          "address1": "Özalper mah Tevhid sok Açelya sitesi D blok kat 3 No 12 Yeşilyurt Malatya ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "44000",
+          "countryCode": "tr",
+          "fullAddress": "Özalper mah Tevhid sok Açelya sitesi D blok kat 3 No 12 Yeşilyurt Malatya     Yeşilyurt Malatya",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 164,
+      "orderNumber": "766731464",
+      "grossAmount": 89.9,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T17:34:30.589",
+      "estimatedDeliveryStartDate": "2021-09-07T14:34:30",
+      "estimatedDeliveryEndDate": "2021-09-11T14:34:30",
+      "source": "Trendyol",
+      "customer": {
+        "id": 164,
+        "firstName": "Meryem",
+        "lastName": "Bektaş",
+        "phoneNumber": "5535343176",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 164,
+        "trackingNumber": 7337158191872,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=2089cf43-b34b-4f9f-8881-cbd994363c5f",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 343,
+          "orderId": 164,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-04T14:34:32.761"
+        },
+        {
+          "id": 344,
+          "orderId": 164,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-04T14:34:35.639"
+        },
+        {
+          "id": 345,
+          "orderId": 164,
+          "order": null,
+          "orderStatus": "Shipped",
+          "lastStatusChangeDate": "2021-09-06T16:04:39.737"
+        }
+      ],
+      "lines": [
+        {
+          "id": 171,
+          "orderId": 164,
+          "order": null,
+          "productName": "6’lı Karışık Vakumlu Poşet Set+Pompa Hediyeli 8697623596335, one size",
+          "quantity": 1,
+          "sku": "8697623596335",
+          "discount": 0,
+          "amount": 89.9,
+          "currencyCode": "TRY",
+          "vatAmount": 18,
+          "barcode": "8697623596335",
+          "stockCode": "8697623596335"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 327,
+          "addressId": null,
+          "orderId": 164,
+          "order": null,
+          "company": "",
+          "address1": "Yayla mahallesi Dua sokak no 44/3Tuzla İstanbul ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "34000",
+          "countryCode": "tr",
+          "fullAddress": "Yayla mahallesi Dua sokak no 44/3Tuzla İstanbul     Tuzla İstanbul",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 328,
+          "addressId": null,
+          "orderId": 164,
+          "order": null,
+          "company": "",
+          "address1": "Yayla mahallesi Dua sokak no 44/3Tuzla İstanbul ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "34000",
+          "countryCode": "tr",
+          "fullAddress": "Yayla mahallesi Dua sokak no 44/3Tuzla İstanbul     Tuzla İstanbul",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 163,
+      "orderNumber": "766746022",
+      "grossAmount": 90,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T17:45:51.082",
+      "estimatedDeliveryStartDate": "2021-09-07T14:45:50",
+      "estimatedDeliveryEndDate": "2021-09-11T14:45:50",
+      "source": "Trendyol",
+      "customer": {
+        "id": 163,
+        "firstName": "Berfin",
+        "lastName": "Yeşilay",
+        "phoneNumber": "5317058046",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 163,
+        "trackingNumber": 7337158312345,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=7b630209-5f26-4677-b162-263565c5fb7c",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 340,
+          "orderId": 163,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-04T14:46:13.577"
+        },
+        {
+          "id": 341,
+          "orderId": 163,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-04T14:46:17.602"
+        },
+        {
+          "id": 342,
+          "orderId": 163,
+          "order": null,
+          "orderStatus": "Shipped",
+          "lastStatusChangeDate": "2021-09-06T16:03:56.893"
+        }
+      ],
+      "lines": [
+        {
+          "id": 170,
+          "orderId": 163,
+          "order": null,
+          "productName": "8’li Vakumlu Poşet Set-1 8697623589603, one size",
+          "quantity": 1,
+          "sku": "8697623589603",
+          "discount": 0,
+          "amount": 90,
+          "currencyCode": "TRY",
+          "vatAmount": 18,
+          "barcode": "8697623589603",
+          "stockCode": "P-M-024"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 325,
+          "addressId": null,
+          "orderId": 163,
+          "order": null,
+          "company": "",
+          "address1": " İstanbul eğitim ve araştırma hastanesi Acil servisi ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "34000",
+          "countryCode": "tr",
+          "fullAddress": "İstanbul eğitim ve araştırma hastanesi Acil servisi     Fatih İstanbul",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 326,
+          "addressId": null,
+          "orderId": 163,
+          "order": null,
+          "company": "",
+          "address1": " İstanbul eğitim ve araştırma hastanesi Acil servisi ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "34000",
+          "countryCode": "tr",
+          "fullAddress": "İstanbul eğitim ve araştırma hastanesi Acil servisi     Fatih İstanbul",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 162,
+      "orderNumber": "766792141",
+      "grossAmount": 85,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T18:21:46.58",
+      "estimatedDeliveryStartDate": "2021-09-07T15:21:46",
+      "estimatedDeliveryEndDate": "2021-09-11T15:21:46",
+      "source": "Trendyol",
+      "customer": {
+        "id": 162,
+        "firstName": "Meral",
+        "lastName": "Honaz",
+        "phoneNumber": "5332266718",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 162,
+        "trackingNumber": 7337158684961,
+        "trackingLink": null,
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 338,
+          "orderId": 162,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-04T15:21:49.676"
+        },
+        {
+          "id": 339,
+          "orderId": 162,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-04T15:21:50.727"
+        }
+      ],
+      "lines": [
+        {
+          "id": 169,
+          "orderId": 162,
+          "order": null,
+          "productName": "6’lı Vakumlu Poşet Set-1 8697623589573, one size",
+          "quantity": 1,
+          "sku": "8697623589573",
+          "discount": 0,
+          "amount": 85,
+          "currencyCode": "TRY",
+          "vatAmount": 18,
+          "barcode": "8697623589573",
+          "stockCode": "P-M-018"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 323,
+          "addressId": null,
+          "orderId": 162,
+          "order": null,
+          "company": "",
+          "address1": "Umurça Mah. Kerevit Sok. Mandalin Evleri Sitesi 3. Sok. A/18 ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "48000",
+          "countryCode": "tr",
+          "fullAddress": "Umurça Mah. Kerevit Sok. Mandalin Evleri Sitesi 3. Sok. A/18     Bodrum Muğla",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 324,
+          "addressId": null,
+          "orderId": 162,
+          "order": null,
+          "company": "",
+          "address1": "Umurça Mah. Kerevit Sok. Mandalin Evleri Sitesi 3. Sok. A/18 ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "48000",
+          "countryCode": "tr",
+          "fullAddress": "Umurça Mah. Kerevit Sok. Mandalin Evleri Sitesi 3. Sok. A/18     Bodrum Muğla",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 161,
+      "orderNumber": "766800875",
+      "grossAmount": 90,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T18:28:45.339",
+      "estimatedDeliveryStartDate": "2021-09-07T15:28:45",
+      "estimatedDeliveryEndDate": "2021-09-11T15:28:45",
+      "source": "Trendyol",
+      "customer": {
+        "id": 161,
+        "firstName": "ebru",
+        "lastName": "durukan",
+        "phoneNumber": "5322454832",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 161,
+        "trackingNumber": 7337158754343,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=ba7f02d3-5750-4788-ad27-ffb99b374977",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 335,
+          "orderId": 161,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-04T15:28:48.309"
+        },
+        {
+          "id": 336,
+          "orderId": 161,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-04T15:28:49.439"
+        },
+        {
+          "id": 337,
+          "orderId": 161,
+          "order": null,
+          "orderStatus": "Shipped",
+          "lastStatusChangeDate": "2021-09-06T16:02:42.869"
+        }
+      ],
+      "lines": [
+        {
+          "id": 168,
+          "orderId": 161,
+          "order": null,
+          "productName": "8’li Vakumlu Poşet Set-1 8697623589603, one size",
+          "quantity": 1,
+          "sku": "8697623589603",
+          "discount": 0,
+          "amount": 90,
+          "currencyCode": "TRY",
+          "vatAmount": 18,
+          "barcode": "8697623589603",
+          "stockCode": "P-M-024"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 321,
+          "addressId": null,
+          "orderId": 161,
+          "order": null,
+          "company": "",
+          "address1": "Ihlamurkuyu mah kızılırmak cad no26/a umraniye ıhlamur eczanesi ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "34000",
+          "countryCode": "tr",
+          "fullAddress": "Ihlamurkuyu mah kızılırmak cad no26/a umraniye ıhlamur eczanesi     Ümraniye İstanbul",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 322,
+          "addressId": null,
+          "orderId": 161,
+          "order": null,
+          "company": "",
+          "address1": "Ihlamurkuyu mah kızılırmak cad no26/a umraniye ıhlamur eczanesi ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "34000",
+          "countryCode": "tr",
+          "fullAddress": "Ihlamurkuyu mah kızılırmak cad no26/a umraniye ıhlamur eczanesi     Ümraniye İstanbul",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 160,
+      "orderNumber": "766812522",
+      "grossAmount": 29.9,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T18:37:58.805",
+      "estimatedDeliveryStartDate": "2021-09-07T15:37:58",
+      "estimatedDeliveryEndDate": "2021-09-11T15:37:58",
+      "source": "Trendyol",
+      "customer": {
+        "id": 160,
+        "firstName": "Elif",
+        "lastName": "YEL",
+        "phoneNumber": "5070114346",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 160,
+        "trackingNumber": 7337158848202,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=73a30d0d-ecb7-4c71-b565-a00026438ef1",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 332,
+          "orderId": 160,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-04T15:38:03.436"
+        },
+        {
+          "id": 333,
+          "orderId": 160,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-04T15:38:06.509"
+        },
+        {
+          "id": 334,
+          "orderId": 160,
+          "order": null,
+          "orderStatus": "Shipped",
+          "lastStatusChangeDate": "2021-09-06T16:04:19.791"
+        }
+      ],
+      "lines": [
+        {
+          "id": 167,
+          "orderId": 160,
+          "order": null,
+          "productName": "Vakumlu Seyahat Poşeti Seti 4’lü 8697623594379, one size",
+          "quantity": 1,
+          "sku": "86976235943779",
+          "discount": 0,
+          "amount": 29.9,
+          "currencyCode": "TRY",
+          "vatAmount": 8,
+          "barcode": "86976235943779",
+          "stockCode": "86976235943779"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 319,
+          "addressId": null,
+          "orderId": 160,
+          "order": null,
+          "company": "",
+          "address1": "baglıca mahallesı 1320. sokak can life apartmanı no:3/6 ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "06000",
+          "countryCode": "TR",
+          "fullAddress": "baglıca mahallesı 1320. sokak can life apartmanı no:3/6     Etimesgut Ankara",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 320,
+          "addressId": null,
+          "orderId": 160,
+          "order": null,
+          "company": "",
+          "address1": "baglıca mahallesı 1320. sokak can life apartmanı no:3/6 ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "06000",
+          "countryCode": "TR",
+          "fullAddress": "baglıca mahallesı 1320. sokak can life apartmanı no:3/6     Etimesgut Ankara",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 159,
+      "orderNumber": "766911773",
+      "grossAmount": 85,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T19:58:14.695",
+      "estimatedDeliveryStartDate": "2021-09-07T16:58:14",
+      "estimatedDeliveryEndDate": "2021-09-11T16:58:14",
+      "source": "Trendyol",
+      "customer": {
+        "id": 159,
+        "firstName": "Aleyna ",
+        "lastName": "Seferoğlu ",
+        "phoneNumber": "5425905926",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 159,
+        "trackingNumber": 7270000018112968,
+        "trackingLink": null,
+        "senderNumber": null,
+        "providerName": "Sürat Kargo Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 330,
+          "orderId": 159,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-04T16:58:51.179"
+        },
+        {
+          "id": 331,
+          "orderId": 159,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-04T16:58:52.956"
+        }
+      ],
+      "lines": [
+        {
+          "id": 166,
+          "orderId": 159,
+          "order": null,
+          "productName": "6’lı Vakumlu Poşet Set-1 8697623589573, one size",
+          "quantity": 1,
+          "sku": "8697623589573",
+          "discount": 0,
+          "amount": 85,
+          "currencyCode": "TRY",
+          "vatAmount": 18,
+          "barcode": "8697623589573",
+          "stockCode": "P-M-018"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 317,
+          "addressId": null,
+          "orderId": 159,
+          "order": null,
+          "company": "",
+          "address1": "ismet paşa cad no 45",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "67000",
+          "countryCode": "tr",
+          "fullAddress": "ismet paşa cad no 45     Gökçebey Zonguldak",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 318,
+          "addressId": null,
+          "orderId": 159,
+          "order": null,
+          "company": "",
+          "address1": "ismet paşa cad no 45",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "67000",
+          "countryCode": "tr",
+          "fullAddress": "ismet paşa cad no 45     Gökçebey Zonguldak",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 158,
+      "orderNumber": "766925616",
+      "grossAmount": 90,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T20:09:29.094",
+      "estimatedDeliveryStartDate": "2021-09-07T17:09:28",
+      "estimatedDeliveryEndDate": "2021-09-11T17:09:28",
+      "source": "Trendyol",
+      "customer": {
+        "id": 158,
+        "firstName": "Özlem ",
+        "lastName": "Kaya",
+        "phoneNumber": "5449492905",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 158,
+        "trackingNumber": 7337159744657,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=b10ccd1a-3330-484f-969d-538db0e003c6",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 327,
+          "orderId": 158,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-04T17:09:32.872"
+        },
+        {
+          "id": 328,
+          "orderId": 158,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-04T17:09:37.081"
+        },
+        {
+          "id": 329,
+          "orderId": 158,
+          "order": null,
+          "orderStatus": "Shipped",
+          "lastStatusChangeDate": "2021-09-06T16:02:55.059"
+        }
+      ],
+      "lines": [
+        {
+          "id": 165,
+          "orderId": 158,
+          "order": null,
+          "productName": "8’li Vakumlu Poşet Set-1 8697623589603, one size",
+          "quantity": 1,
+          "sku": "8697623589603",
+          "discount": 0,
+          "amount": 90,
+          "currencyCode": "TRY",
+          "vatAmount": 18,
+          "barcode": "8697623589603",
+          "stockCode": "P-M-024"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 315,
+          "addressId": null,
+          "orderId": 158,
+          "order": null,
+          "company": "",
+          "address1": "Gerede sokak Koruk apt 4/7",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "06000",
+          "countryCode": "tr",
+          "fullAddress": "Gerede sokak Koruk apt 4/7     Çankaya Ankara",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 316,
+          "addressId": null,
+          "orderId": 158,
+          "order": null,
+          "company": "",
+          "address1": "Gerede sokak Koruk apt 4/7",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "06000",
+          "countryCode": "tr",
+          "fullAddress": "Gerede sokak Koruk apt 4/7     Çankaya Ankara",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 157,
+      "orderNumber": "766976663",
+      "grossAmount": 90,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T20:51:03.709",
+      "estimatedDeliveryStartDate": "2021-09-07T17:51:03",
+      "estimatedDeliveryEndDate": "2021-09-11T17:51:03",
+      "source": "Trendyol",
+      "customer": {
+        "id": 157,
+        "firstName": "Asiye",
+        "lastName": "ÇATIKKAYA",
+        "phoneNumber": "5334900515",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 157,
+        "trackingNumber": 7337160130210,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=82cd6c5e-4d9f-4d09-908a-f3bac4dd53e6",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 324,
+          "orderId": 157,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-04T17:51:07.761"
+        },
+        {
+          "id": 325,
+          "orderId": 157,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-04T17:51:09.545"
+        },
+        {
+          "id": 326,
+          "orderId": 157,
+          "order": null,
+          "orderStatus": "Shipped",
+          "lastStatusChangeDate": "2021-09-06T16:02:15.695"
+        }
+      ],
+      "lines": [
+        {
+          "id": 164,
+          "orderId": 157,
+          "order": null,
+          "productName": "8’li Vakumlu Poşet Set-1 8697623589603, one size",
+          "quantity": 1,
+          "sku": "8697623589603",
+          "discount": 0,
+          "amount": 90,
+          "currencyCode": "TRY",
+          "vatAmount": 18,
+          "barcode": "8697623589603",
+          "stockCode": "P-M-024"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 313,
+          "addressId": null,
+          "orderId": 157,
+          "order": null,
+          "company": "",
+          "address1": "Turgut Özal Mah. 2141. Sokak Akkent-2 Sitesi B Blok No:45 Kat:11 ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "06000",
+          "countryCode": "TR",
+          "fullAddress": "Turgut Özal Mah. 2141. Sokak Akkent-2 Sitesi B Blok No:45 Kat:11     Yenimahalle Ankara",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 314,
+          "addressId": null,
+          "orderId": 157,
+          "order": null,
+          "company": "",
+          "address1": "Turgut Özal Mah. 2141. Sokak Akkent-2 Sitesi B Blok No:45 Kat:11 ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "06000",
+          "countryCode": "TR",
+          "fullAddress": "Turgut Özal Mah. 2141. Sokak Akkent-2 Sitesi B Blok No:45 Kat:11     Yenimahalle Ankara",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 156,
+      "orderNumber": "766993202",
+      "grossAmount": 90,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T21:04:19.131",
+      "estimatedDeliveryStartDate": "2021-09-07T18:04:18",
+      "estimatedDeliveryEndDate": "2021-09-11T18:04:18",
+      "source": "Trendyol",
+      "customer": {
+        "id": 156,
+        "firstName": "Maide ",
+        "lastName": "Bulanık",
+        "phoneNumber": "5076008259",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 156,
+        "trackingNumber": 7337160255708,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=0bbbafa9-1375-491d-808f-231c9943af84",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 321,
+          "orderId": 156,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-04T18:04:40.189"
+        },
+        {
+          "id": 322,
+          "orderId": 156,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-04T18:04:40.742"
+        },
+        {
+          "id": 323,
+          "orderId": 156,
+          "order": null,
+          "orderStatus": "Shipped",
+          "lastStatusChangeDate": "2021-09-06T16:03:52.518"
+        }
+      ],
+      "lines": [
+        {
+          "id": 163,
+          "orderId": 156,
+          "order": null,
+          "productName": "8’li Vakumlu Poşet Set-1 8697623589603, one size",
+          "quantity": 1,
+          "sku": "8697623589603",
+          "discount": 0,
+          "amount": 90,
+          "currencyCode": "TRY",
+          "vatAmount": 18,
+          "barcode": "8697623589603",
+          "stockCode": "P-M-024"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 311,
+          "addressId": null,
+          "orderId": 156,
+          "order": null,
+          "company": "",
+          "address1": "İnönü caddesi 108/03",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "34000",
+          "countryCode": "tr",
+          "fullAddress": "İnönü caddesi 108/03     Güngören İstanbul",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 312,
+          "addressId": null,
+          "orderId": 156,
+          "order": null,
+          "company": "",
+          "address1": "İnönü caddesi 108/03",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "34000",
+          "countryCode": "tr",
+          "fullAddress": "İnönü caddesi 108/03     Güngören İstanbul",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 155,
+      "orderNumber": "767008901",
+      "grossAmount": 90,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T21:16:53.382",
+      "estimatedDeliveryStartDate": "2021-09-07T18:16:53",
+      "estimatedDeliveryEndDate": "2021-09-11T18:16:53",
+      "source": "Trendyol",
+      "customer": {
+        "id": 155,
+        "firstName": "Özlem",
+        "lastName": "Karaboğa",
+        "phoneNumber": "5392603636",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 155,
+        "trackingNumber": 7337160373785,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=985f344d-153e-4782-99c3-b08ad31dcbe5",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 318,
+          "orderId": 155,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-04T18:17:19.709"
+        },
+        {
+          "id": 319,
+          "orderId": 155,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-04T18:17:24.094"
+        },
+        {
+          "id": 320,
+          "orderId": 155,
+          "order": null,
+          "orderStatus": "Shipped",
+          "lastStatusChangeDate": "2021-09-06T16:02:31.527"
+        }
+      ],
+      "lines": [
+        {
+          "id": 162,
+          "orderId": 155,
+          "order": null,
+          "productName": "8’li Vakumlu Poşet Set-1 8697623589603, one size",
+          "quantity": 1,
+          "sku": "8697623589603",
+          "discount": 0,
+          "amount": 90,
+          "currencyCode": "TRY",
+          "vatAmount": 18,
+          "barcode": "8697623589603",
+          "stockCode": "P-M-024"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 309,
+          "addressId": null,
+          "orderId": 155,
+          "order": null,
+          "company": "",
+          "address1": "4246 sok.No:28/2 Yunus Emre mah.",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "35000",
+          "countryCode": "TR",
+          "fullAddress": "4246 sok.No:28/2 Yunus Emre mah.     Karabağlar İzmir",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 310,
+          "addressId": null,
+          "orderId": 155,
+          "order": null,
+          "company": "",
+          "address1": "4246 sok.No:28/2 Yunus Emre mah.",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "35000",
+          "countryCode": "TR",
+          "fullAddress": "4246 sok.No:28/2 Yunus Emre mah.     Karabağlar İzmir",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "orderNumber": "767017389",
+      "grossAmount": 85,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T21:23:58.119",
+      "estimatedDeliveryStartDate": "2021-09-07T18:23:58",
+      "estimatedDeliveryEndDate": "2021-09-11T18:23:58",
+      "source": "Trendyol",
+      "customer": {
+        "id": 154,
+        "firstName": "Nazife ",
+        "lastName": "Aşkın",
+        "phoneNumber": "5397304046",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 154,
+        "trackingNumber": 7337160432444,
+        "trackingLink": null,
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 316,
+          "orderId": 154,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-04T18:23:59.819"
+        },
+        {
+          "id": 317,
+          "orderId": 154,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-04T18:24:00.758"
+        }
+      ],
+      "lines": [
+        {
+          "id": 161,
+          "orderId": 154,
+          "order": null,
+          "productName": "6’lı Vakumlu Poşet Set-1 8697623589573, one size",
+          "quantity": 1,
+          "sku": "8697623589573",
+          "discount": 0,
+          "amount": 85,
+          "currencyCode": "TRY",
+          "vatAmount": 18,
+          "barcode": "8697623589573",
+          "stockCode": "P-M-018"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 307,
+          "addressId": null,
+          "orderId": 154,
+          "order": null,
+          "company": "",
+          "address1": "Şükraniye mah. Barutluk caddesi no:89 kat 8 daire 28 yıldırım Bursa ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "16000",
+          "countryCode": "tr",
+          "fullAddress": "Şükraniye mah. Barutluk caddesi no:89 kat 8 daire 28 yıldırım Bursa     Yıldırım Bursa",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 308,
+          "addressId": null,
+          "orderId": 154,
+          "order": null,
+          "company": "",
+          "address1": "Şükraniye mah. Barutluk caddesi no:89 kat 8 daire 28 yıldırım Bursa ",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "16000",
+          "countryCode": "tr",
+          "fullAddress": "Şükraniye mah. Barutluk caddesi no:89 kat 8 daire 28 yıldırım Bursa     Yıldırım Bursa",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 153,
+      "orderNumber": "767021159",
+      "grossAmount": 90,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T21:27:04.861",
+      "estimatedDeliveryStartDate": "2021-09-07T18:27:04",
+      "estimatedDeliveryEndDate": "2021-09-11T18:27:04",
+      "source": "Trendyol",
+      "customer": {
+        "id": 153,
+        "firstName": "yağmur",
+        "lastName": "deniz",
+        "phoneNumber": "5537717627",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 153,
+        "trackingNumber": 7337160462373,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=331b8845-aadf-43f6-82fd-88eb42df4082",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 313,
+          "orderId": 153,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-04T18:27:07.304"
+        },
+        {
+          "id": 314,
+          "orderId": 153,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-04T18:27:11.465"
+        },
+        {
+          "id": 315,
+          "orderId": 153,
+          "order": null,
+          "orderStatus": "Shipped",
+          "lastStatusChangeDate": "2021-09-06T16:03:00.383"
+        }
+      ],
+      "lines": [
+        {
+          "id": 160,
+          "orderId": 153,
+          "order": null,
+          "productName": "8’li Vakumlu Poşet Set-1 8697623589603, one size",
+          "quantity": 1,
+          "sku": "8697623589603",
+          "discount": 0,
+          "amount": 90,
+          "currencyCode": "TRY",
+          "vatAmount": 18,
+          "barcode": "8697623589603",
+          "stockCode": "P-M-024"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 305,
+          "addressId": null,
+          "orderId": 153,
+          "order": null,
+          "company": "",
+          "address1": "2. Anafartalar MH 1505 SK no 4 daire 1",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "45000",
+          "countryCode": "tr",
+          "fullAddress": "2. Anafartalar MH 1505 SK no 4 daire 1     Şehzadeler Manisa",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 306,
+          "addressId": null,
+          "orderId": 153,
+          "order": null,
+          "company": "",
+          "address1": "2. Anafartalar MH 1505 SK no 4 daire 1",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "45000",
+          "countryCode": "tr",
+          "fullAddress": "2. Anafartalar MH 1505 SK no 4 daire 1     Şehzadeler Manisa",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 152,
+      "orderNumber": "767047714",
+      "grossAmount": 90,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T21:48:49.366",
+      "estimatedDeliveryStartDate": "2021-09-07T18:48:49",
+      "estimatedDeliveryEndDate": "2021-09-11T18:48:49",
+      "source": "Trendyol",
+      "customer": {
+        "id": 152,
+        "firstName": "Selen",
+        "lastName": "VAR",
+        "phoneNumber": "5302431387",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 152,
+        "trackingNumber": 7337160654228,
+        "trackingLink": "https://kargotakip.trendyol.com/?token=e3557ba0-a19d-41ef-9e4d-b9c678699497",
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 310,
+          "orderId": 152,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-04T18:48:51.042"
+        },
+        {
+          "id": 311,
+          "orderId": 152,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-04T18:48:52.238"
+        },
+        {
+          "id": 312,
+          "orderId": 152,
+          "order": null,
+          "orderStatus": "Shipped",
+          "lastStatusChangeDate": "2021-09-06T16:02:23.157"
+        }
+      ],
+      "lines": [
+        {
+          "id": 159,
+          "orderId": 152,
+          "order": null,
+          "productName": "8’li Vakumlu Poşet Set-1 8697623589603, one size",
+          "quantity": 1,
+          "sku": "8697623589603",
+          "discount": 0,
+          "amount": 90,
+          "currencyCode": "TRY",
+          "vatAmount": 18,
+          "barcode": "8697623589603",
+          "stockCode": "P-M-024"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 303,
+          "addressId": null,
+          "orderId": 152,
+          "order": null,
+          "company": "",
+          "address1": "Mecidiyeköy mh Gülbahar cd no 51/5 Yavuz apt İSTANBUL",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "34000",
+          "countryCode": "tr",
+          "fullAddress": "Mecidiyeköy mh Gülbahar cd no 51/5 Yavuz apt İSTANBUL     Şişli İstanbul",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 304,
+          "addressId": null,
+          "orderId": 152,
+          "order": null,
+          "company": "",
+          "address1": "Mecidiyeköy mh Gülbahar cd no 51/5 Yavuz apt İSTANBUL",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "34000",
+          "countryCode": "tr",
+          "fullAddress": "Mecidiyeköy mh Gülbahar cd no 51/5 Yavuz apt İSTANBUL     Şişli İstanbul",
+          "isShipmentAddress": true
+        }
+      ]
+    },
+    {
+      "id": 151,
+      "orderNumber": "767066148",
+      "grossAmount": 90,
+      "currencyCode": "TRY",
+      "totalDiscount": 0,
+      "date": "2021-09-04T22:04:01.671",
+      "estimatedDeliveryStartDate": "2021-09-07T19:04:01",
+      "estimatedDeliveryEndDate": "2021-09-11T19:04:01",
+      "source": "Trendyol",
+      "customer": {
+        "id": 151,
+        "firstName": "Oya ",
+        "lastName": "Güngör",
+        "phoneNumber": "5308335380",
+        "turkishIdentityNumber": "11111111111"
+      },
+      "cargo": {
+        "id": 151,
+        "trackingNumber": 7337160786943,
+        "trackingLink": null,
+        "senderNumber": null,
+        "providerName": "Trendyol Express Marketplace"
+      },
+      "packageHistories": [
+        {
+          "id": 308,
+          "orderId": 151,
+          "order": null,
+          "orderStatus": "Awaiting",
+          "lastStatusChangeDate": "2021-09-04T19:04:04.573"
+        },
+        {
+          "id": 309,
+          "orderId": 151,
+          "order": null,
+          "orderStatus": "Created",
+          "lastStatusChangeDate": "2021-09-04T19:04:04.983"
+        }
+      ],
+      "lines": [
+        {
+          "id": 158,
+          "orderId": 151,
+          "order": null,
+          "productName": "8’li Vakumlu Poşet Set-1 8697623589603, one size",
+          "quantity": 1,
+          "sku": "8697623589603",
+          "discount": 0,
+          "amount": 90,
+          "currencyCode": "TRY",
+          "vatAmount": 18,
+          "barcode": "8697623589603",
+          "stockCode": "P-M-024"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 301,
+          "addressId": null,
+          "orderId": 151,
+          "order": null,
+          "company": "",
+          "address1": "Zonguldak aile çalışma ve sosyal hizmetler il müdürlüğü 69 ambarlari",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "67000",
+          "countryCode": "tr",
+          "fullAddress": "Zonguldak aile çalışma ve sosyal hizmetler il müdürlüğü 69 ambarlari     Merkez Zonguldak",
+          "isShipmentAddress": false
+        },
+        {
+          "id": 302,
+          "addressId": null,
+          "orderId": 151,
+          "order": null,
+          "company": "",
+          "address1": "Zonguldak aile çalışma ve sosyal hizmetler il müdürlüğü 69 ambarlari",
+          "address2": "",
+          "city": null,
+          "district": null,
+          "neighborhood": null,
+          "postalCode": "67000",
+          "countryCode": "tr",
+          "fullAddress": "Zonguldak aile çalışma ve sosyal hizmetler il müdürlüğü 69 ambarlari     Merkez Zonguldak",
+          "isShipmentAddress": true
+        }
+      ]
+    }
+  ]
+}
